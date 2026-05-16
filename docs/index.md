@@ -2,8 +2,8 @@
 title: Home
 layout: home
 permalink: /homesweethome/
-has_children: false
-nav_order: 1
+#has_children: false
+#nav_order: 1
 ---
 
 
