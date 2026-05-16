@@ -40,3 +40,8 @@ nav_sort: case_insensitive
 #logo: "/assets/images/logo.png"
 
 favicon_ico: "/assets/images/favicon.ico"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
