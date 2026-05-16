@@ -1,6 +1,10 @@
 ---
 title: Buran Orbiters
 layout: default
+permalink: /orbiters/
+has_children: true
+parent: Buran
+nav_order: 1
 ---
 
 Despite only one orbiter actually flying to space, the Buran program produced a surprisingly
