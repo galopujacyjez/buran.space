@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: default
 #permalink: /homesweethome/
 #has_children: false
 #nav_order: 1
