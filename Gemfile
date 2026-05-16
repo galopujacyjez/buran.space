@@ -1,4 +1,8 @@
 source 'https://rubygems.org'
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
+gem "just-the-docs"
 
 gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
 # gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2

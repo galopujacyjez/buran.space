@@ -1,9 +1,9 @@
 title: buran.space
 description: buran dot space
 
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
-author: Maks Skiendzielewski
+author: blak
 
 url: https://buran.space
 baseurl: ""
