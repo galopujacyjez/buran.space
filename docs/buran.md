@@ -1,8 +1,8 @@
 ---
 title: Buran
-#description: Buran orbiter
+description: Buran orbiter
 layout: default
-#permalink: /buran/
+permalink: /buran/
 has_children: true
 # parent:
 nav_order: 1
