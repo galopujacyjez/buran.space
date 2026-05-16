@@ -43,5 +43,3 @@ favicon_ico: "/assets/images/favicon.ico"
 
 exclude:
   - README.md
-  - Gemfile
-  - Gemfile.lock
