@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-permalink: /homesweethome/
+#permalink: /homesweethome/
 #has_children: false
 #nav_order: 1
 ---

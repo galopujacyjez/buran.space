@@ -1,7 +1,7 @@
 ---
 title: OK-M / OK-ML1
 layout: default
-permalink: /okm/
+#permalink: /okm/
 has_children: false
 parent: Buran Orbiters
 nav_order: 1

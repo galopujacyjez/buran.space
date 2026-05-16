@@ -1,7 +1,7 @@
 ---
 title: Buran Orbiters
 layout: default
-permalink: /orbiters/
+#permalink: /orbiters/
 has_children: true
 parent: Buran
 nav_order: 1
