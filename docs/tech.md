@@ -1,6 +1,6 @@
 ---
 title: Vehicle Description
-description: Specification of vehicle 1K as configured for crewed flight.
+#description: Specification of vehicle 1K as configured for crewed flight.
 layout: default
 #permalink: /buran/tech/
 has_children: true
