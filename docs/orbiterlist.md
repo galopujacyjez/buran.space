@@ -1,5 +1,6 @@
 ---
 title: Buran Orbiters
+layout: default
 ---
 
 Despite only one orbiter actually flying to space, the Buran program produced a surprisingly
