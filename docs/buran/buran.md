@@ -1,6 +1,6 @@
 ---
 title: Buran
-desctiption: Buran orbiter
+description: Buran orbiter
 layout: default
 #permalink: /buran/
 has_children: true

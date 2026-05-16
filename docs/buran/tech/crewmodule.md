@@ -1,6 +1,6 @@
 ---
 title: Crew Module
-desctiption: module crew desfr
+description: module crew desfr
 layout: default
 #permalink: /buran/tech/crewmodule/
 has_children: false
