@@ -41,6 +41,9 @@ nav_sort: case_insensitive
 
 favicon_ico: "/assets/images/bur windeshrhjetre.ico"
 
+plugins:
+  - jekyll-remote-theme
+
 exclude:
   - vendor/
   - Gemfile
