@@ -14,10 +14,7 @@ parent: Vehicles
 #grand_parent: Buran
 description: Energia-M launcher
 ---
----
-layout: default
-title: Energia-M
----
+
 # Energia-M
 
 ## Development history
