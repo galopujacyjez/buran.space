@@ -39,7 +39,7 @@ nav_sort: case_insensitive
 
 #logo: "/assets/images/logo.png"
 
-favicon_ico: "/assets/images/buranspacefav.ico"
+favicon_ico: "/docs/assets/images/buranspacefav.ico"
 
 plugins:
   - jekyll-remote-theme
