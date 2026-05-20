@@ -1,19 +1,19 @@
 ---
 layout: default
-nav_order: 2
+nav_order: 3
 has_children: true
 nav_exclude: false
 search_exclude: false
 has_toc: true
 
-permalink: /buran/
+permalink: /energia/
 #last_modified_date: 2026-01-01
 
-title: Buran
+title: Energia
 #parent: Buran
 #grand_parent: Grandparent Page Title
-description: The Buran orbiter.
+description: The Energia rocket
 ---
  
 
-# Buran orbiter
+# Energia launch vehicle
