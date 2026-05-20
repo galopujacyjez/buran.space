@@ -9,7 +9,7 @@ has_toc: true
 permalink: /buran/orbiters/okm/
 #last_modified_date: 2026-01-01
 
-title: OK-M / OK-ML1
+title: OK-M
 parent: Buran Orbiters
 grand_parent: Buran
 description: Buran test article OK-M.
