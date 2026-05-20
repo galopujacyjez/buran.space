@@ -1,10 +1,18 @@
 ---
-title: OK-M / OK-ML1
 layout: default
-#permalink: /okm/
-has_children: false
+nav_order: 6
+has_children: true
+nav_exclude: false
+search_exclude: false
+has_toc: true
+
+permalink: /buran/orbiters/okm/
+#last_modified_date: 2026-01-01
+
+title: OK-M / OK-ML1
 parent: Buran Orbiters
-nav_order: 2
+#grand_parent: Grandparent Page Title
+description: Buran test article OK-M.
 ---
 
 **NPO Energia airframe no. 0.01; other designations: 1M, OK-ML1, OK-M**

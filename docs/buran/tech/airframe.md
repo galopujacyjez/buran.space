@@ -1,5 +1,5 @@
 ---
-title: Buran Orbiters
+title: Buran Airframe
 #description: Specification of vehicle 1K as configured for crewed flight.
 layout: default
 #permalink: /buran/tech/airframe/

@@ -1,19 +1,16 @@
 ---
 layout: default
-nav_order: 1
+nav_order: 7
 has_children: true
 nav_exclude: false
 search_exclude: false
 has_toc: true
 
-permalink: /buran/
+permalink: /buran/orbiters/okgli/
 #last_modified_date: 2026-01-01
 
-title: Buran
-#parent: Buran
+title: OK-GLI
+parent: Buran Orbiters
 #grand_parent: Grandparent Page Title
-description: The Buran orbiter.
+description: Buran test article OK-GLI.
 ---
- 
-
-# Buran orbiter

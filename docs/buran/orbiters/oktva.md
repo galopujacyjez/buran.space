@@ -1,19 +1,16 @@
 ---
 layout: default
-nav_order: 1
+nav_order: 10
 has_children: true
 nav_exclude: false
 search_exclude: false
 has_toc: true
 
-permalink: /buran/
+permalink: /buran/orbiters/oktva/
 #last_modified_date: 2026-01-01
 
-title: Buran
-#parent: Buran
+title: OK-TVA
+parent: Buran Orbiters
 #grand_parent: Grandparent Page Title
-description: The Buran orbiter.
+description: Buran test article OK-M.
 ---
- 
-
-# Buran orbiter

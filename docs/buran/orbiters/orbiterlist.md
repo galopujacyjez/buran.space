@@ -1,10 +1,18 @@
 ---
-title: Buran Orbiters
 layout: default
-#permalink: /orbiters/
-has_children: true
-parent: Buran
 nav_order: 1
+has_children: true
+nav_exclude: false
+search_exclude: false
+has_toc: true
+
+permalink: /buran/orbiters/
+#last_modified_date: 2026-01-01
+
+title: Buran orbiter fleet
+parent: Buran
+#grand_parent: Grandparent Page Title
+description: Buran orbiter fleet.
 ---
 
 Despite only one orbiter actually flying to space, the Buran program produced a surprisingly
