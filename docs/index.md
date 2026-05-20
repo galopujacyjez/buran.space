@@ -6,7 +6,7 @@ nav_exclude: true
 search_exclude: false
 has_toc: false
 
-permalink:/
+permalink:/home/
 #last_modified_date: 2026-01-01
 
 title: Home
