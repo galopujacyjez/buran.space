@@ -17,7 +17,11 @@ description: Energia-M launcher
 
 # Energia-M
 
-## Development history
+[Development history](#history)
+
+[Technical description](#tech)
+
+## Development history {#history}
 
 Studies on smaller Energia variants or derivatives began even before the Buran programme was officially given the go ahead by the February 1976 decree by the Communist Party's Central Committee.
 
@@ -130,7 +134,7 @@ Another interesting concept was the idea of launching the Energia-M from a platf
 
 Being the USSR's prospective Proton replacement, Energia-M was included in some space station planning documents in the 80s and early 90s. This Mir-2 planning document from around 1990 shows the use of Energia-M (Neutron) to lift modules for the next generation space station.
 
-## Energia-M technical description
+## Energia-M technical description {#tech}
 
 The Energia-M is a two stage vehicle with an optional third stage depending on the mission requirements. The core stage, Blok V, is a derivative of the Energia core stage Blok Ts, shortened and adapted for attaching in-line payloads which are contained in a two-part fairing. The vehicle's boosters, Blok A, carried over from the Energia, are attached to the core stage at the bottom and the payload fairing at the top. A standard Blok Ya launch table adapter is used to assemble the vehicle, carry it to the pad on the "Grasshopper" transporter-erector (TUA) and erect it on the pad. During launch, Blok Ya remains on the pad, providing hydraulic, pneumatic and electrical connections between the pad infrastructure and the core stage right until lift-off.
 
