@@ -11,6 +11,6 @@ permalink: /buran/orbiters/okgli/
 
 title: OK-GLI
 parent: Buran Orbiters
-#grand_parent: Grandparent Page Title
+grand_parent: Buran
 description: Buran test article OK-GLI.
 ---

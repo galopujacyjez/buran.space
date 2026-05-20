@@ -11,6 +11,6 @@ permalink: /buran/orbiters/okmt/
 
 title: OK-MT
 parent: Buran Orbiters
-#grand_parent: Grandparent Page Title
+grand_parent: Buran
 description: Buran test article OK-M.
 ---

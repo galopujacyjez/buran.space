@@ -16,4 +16,6 @@ description: The home of Buran.
 ---
 
 
-# what a fantastic website!
+# Home
+
+what a fantastic website!
