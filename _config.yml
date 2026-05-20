@@ -3,10 +3,10 @@ description: buran dot space
 
 remote_theme: just-the-docs/just-the-docs
 
-author: blak
+author: galopujacy_jez
 
 url: https://buran.space
-baseurl: ""
+baseurl: /home/
 
 #aux_links:
 # Template Repository: https://github.com/just-the-docs/just-the-docs-template
@@ -16,8 +16,12 @@ search_enabled: true
 aux_links:
   "Buran photo archive":
     - "https://buranarchive.space"
+  "Buran archive on Twitter":
+    - "https://x.com/11K25_Energia"
+  "Maks on Twitter":
+    - "https://x.com/galopujacy_jez"
 
-footer_content: "Copyright &copy; 2026 Your Name"
+footer_content: "Copyright &copy; 2026 Maks Skiendzielewski"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
