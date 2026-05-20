@@ -10,7 +10,7 @@ permalink: /buran/orbiters/okmt/
 #last_modified_date: 2026-01-01
 
 title: OK-MT
-parent: Buran Orbiters
+parent: Buran Fleet
 grand_parent: Buran
 description: Buran test article OK-M.
 ---

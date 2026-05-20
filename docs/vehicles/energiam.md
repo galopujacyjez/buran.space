@@ -51,6 +51,22 @@ Very little information is known about the proposed cryogenic upper stage, Blok 
 
 After the Energia core stage design returned to the two tank configuration in 1978 and the design of the vehicle was frozen in 1979, work on derivatives and variants was suspended and all focus shifted to making Energia fly.
 
+
+<figure>
+  <img src="https://buranarchive.space/uploads/9/m/h/9mhfyeon1r//2024/10/19/20241019212906-11e47048.png" alt="Alt text" style="max-width: 100%; height: auto;">
+  <figcaption>RLA rockets</figcaption>
+</figure>
+
+
+<figure>
+  <img src="/assets/images/podyom.webp" alt="Alt text" style="max-width: 100%; height: auto;">
+  <figcaption>podyom</figcaption>
+</figure>
+
+
+
+
+
 ### Groza and inelegant design
 
 It wasn't until 1984 that work on new launchers resumed with a government resolution on the development of new launch systems; this time the payload requirements were amended to 30–40 tonnes to LEO with a goal of GEO payload capability surpassing that of the modernized Proton (presumably referring to the introduction of the Blok DM-2 upper stage on Proton in 1982). The deadline for the release of preliminary designs was set to 1985, with a decision on funding to follow a year later. Three research directions were specified: 11K37, upgraded Proton, and Groza — as the modified RLA-125 was named.
