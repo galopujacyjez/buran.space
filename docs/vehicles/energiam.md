@@ -59,7 +59,7 @@ After the Energia core stage design returned to the two tank configuration in 19
 
 
 <figure>
-  <img src="/assets/images/podyom.webp" alt="Alt text" style="max-width: 100%; height: auto;">
+  <img src="/docs/assets/images/podyom.webp" alt="Alt text" style="max-width: 100%; height: auto;">
   <figcaption>podyom</figcaption>
 </figure>
 
