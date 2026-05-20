@@ -115,3 +115,29 @@ orbiters were renamed to OK-M and OK-GLI, respectively.[^2] [^3]
 [^2]: [buran.ru/htm/str217.htm](https://www.buran.ru/htm/str217.htm)
 
 [^3]: [V.P. Glushko, Report at the party and economic activist meeting on July 16, 1981, 1981, Arch. No. 19171, l. 24–39](https://epizodsspace.airbase.ru/bibl/glushko/izbran-rab-glushko/3/01.html)
+
+
+[^1]: Yu. Semyonov (ed.), Raketno-kosmicheskaya korporatsiya Energiya 1946–1996, Moscow, 1996
+[^2]: Soviet Space Shuttle Prepared For Second Launch Attempt, Aviation Week & Space Technology, 7 Nov 1988
+[^3]: Adapted from buran.ru/htm/str217.htm
+[^4]: Yu. Semyonov, Mnogorazoviy orbitalniy korabl "Buran", Moscow, 1995
+[^5]: B. Gubanov, Triumf i tragediya Energii (Tom 3: Energiya-Buran), Nizhny Novgorod, 1998
+[^6]: buran.starjet.ru/index10–2.htm
+[^7]: The first tourist space flight of Buran will take place on April 12, 1994, Novosti Kosmonavtiki 21/1993, p.43–45
+[^8]: Lozino-Lozinsky G.E., A.G. Bratukhin (eds.), Aviatsionno-Kosmicheskiye Sistemy, Moscow, Publishing House of Moscow Aviation Institute, 1997
+[^9]: Kuznetsov, A. (ed.) Mnogorazovaya kosmicheskaya sistema "Energiya-Buran", OmV Luch, 2004
+[^10]: Makarov A.A. (ed.) Nazemnyye ispytaniya raketno-kosmicheskoy tekhniki, Peresvet, 2001
+[^11]: Volokonsky V.V. "Buran" - let's fly further, dear comrades.
+[^12]: buran-energia.com/bourane-buran/bourane-modele-tva.php
+[^13]: 1983 National Intelligence Estimate - The Soviet Space Program Vol. 2, CIA Directorate of Intelligence, 1983
+[^14]: USSR Persists in Challenging American Position on Soviet-Launched U.S. Payloads, Aviation Week & Space Technology, 24 Oct 1988
+[^15]: The Soviet Shuttle Story, Spaceflight, January 1990
+[^16]: Manned Soviet Shuttle Flight Delayed Until 1992 for Systems Installation, Aviation Week & Space Technology, 8 May 1989
+[^17]: Soviets' Second Buran Orbiter Undergoes Launch Pad Tests, Aviation Week & Space Technology, 12 Aug 1991
+[^18]: The intended use of the 1K11K25 system. Technical report, RGANTD F213 O2S-1 D309S, 1991
+[^19]: The Buran spacecraft was brought to Verkhnyaya Pyshma, RG
+[^20]: themoscowtimes.com/archive/factory-junks-buran-shuttles
+[^21]: Of course, OK-GLI (0.02) and OK-KS (0.03) also remained in Moscow, at the Gromov Flight Research Institute and NPO Energia, respectively, but were already fully built and had been delivered to LII and Energia by the mid 80s.
+[^22]: buran.ru/htm/chavo.htm
+[^23]: B. Hendrickx, B. Vis, Energiya-Buran: The Soviet Space Shuttle, Springer Praxis, 2007
+You'd place the [^1][^2]... markers inline next to the specific claims they support, rather than all together like shown above. Just move each number to sit right after the sentence it
