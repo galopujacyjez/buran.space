@@ -15,12 +15,16 @@ grand_parent: Buran
 description: Buran test article OK-GLI.
 ---
 # OK-GLI
-### Airframe no.: 0.02
-### Energia designation: 2M
-### Alternative designations: OK-ML2, OK-ML2-GLI, OK-GLI, BTS-002, BTS-02
-(2M, OK-ML2, OK-ML2-GLI, OK-GLI, BTS-002, BTS-02)
-BTS-02 — Bolshaya Transportnaya Sistema-02 (Large Transport System-02)
-OK-GLI — Orbitalnyy Korabl (dlya) Gorizontalnykh Lotnykh Ispytaniy (Orbital Ship [for] Horizontal Flight Tests)
+
+**Airframe no.: 0.02** 
+
+**Energia designation: 2M**
+
+**Alternative designations: OK-ML2, OK-ML2-GLI, OK-GLI, BTS-002, BTS-02**
+
+BTS-02 — *Bolshaya Transportnaya Sistema-02* (Large Transport System-02)
+
+OK-GLI — *Orbitalnyy Korabl (dlya) Gorizontalnykh Lotnykh Ispytaniy* (Orbital Ship [for] Horizontal Flight Tests)
 
 Buran aerodynamic analogue, used between 29.12.1984 and 06.12.1990 for piloted atmospheric tests. Over 11 taxi tests and 24 flights at the Gromov Flight Research Institute in Zhukovsky, the aerodynamic characteristics of the Buran-class orbiter were validated and an autonomous landing system was developed, along with flight documentation. If the program was continued, OK-GLI was to be used for future Buran crew training.
 

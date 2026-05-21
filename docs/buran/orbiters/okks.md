@@ -14,8 +14,16 @@ parent: Buran Fleet
 grand_parent: Buran
 description: Buran test article OK-M.
 ---
-0.03 (3M, KS, KS-35, OK-KS)
-OK-KS — Orbitalnyy Korabl — Kompleksnyy Stend (Orbital Ship — Complex Stand)
+
+# OK-KS
+
+**Airframe no.: 0.03** 
+
+**Energia designation: 3M**
+
+**Alternative designations: OK-KS, KS-35**
+
+OK-KS — *Orbitalnyy Korabl — Kompleksnyy Stend* (Orbital Ship — Complex Stand)
 
 Electrical analogue of a flight orbiter used for electrical and software tests and real-time tracking of orbiter flights. Before the delivery to NPO Energia in August 1983, the Gromov Flight Research Institute used 0.03 for air transportation tests aboard the Myasishchev VM-T Atlant with the payload mass gradually increasing from 45 to 50 tonnes.
 

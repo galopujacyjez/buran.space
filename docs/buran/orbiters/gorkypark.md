@@ -10,10 +10,14 @@ permalink: /buran/orbiters/gorkypark/
 #last_modified_date: 2026-01-01
 
 title: Gorky Park/VDNKh model
-parent: Buran Orbiters
+parent: Buran Fleet
 grand_parent: Buran
 description: Buran test article OK-M.
 ---
+# Gorky Park and VDNKh model
+
+**Airframe no.: 0.11, 0.05, 2.03 (mix)** 
+
 Gorky Park/VDNKh model
 The fuselage of test article 0.11 was used for static tests at the Tushino Machine-building Plant to support the construction of second series Buran orbiters. The article remained in TMZ’s static testing hall until 1993, when a need arose to free up space for static tests of Myasishchev’s M-55 high-altitude reconnaissance aircraft.
 

@@ -14,8 +14,15 @@ parent: Buran Fleet
 grand_parent: Buran
 description: Buran test article OK-M.
 ---
-0.15 (OK-015, TVA-DZ)
-TVA-DZ — Termo-Vibro-Akusticheskiye [ispytaniya] — Dopolnitelnyy Zakaz (Thermal-Vibration-Acoustic [testing] — Additional Order)
+# TVA-DZ
+
+**Airframe no.: 0.15** 
+
+**Energia designation: *15M?***
+
+**Alternative designations: OK-015, TVA-DZ**
+
+TVA-DZ — *Termo-Vibro-Akusticheskiye [ispytaniya] — Dopolnitelnyy Zakaz* (Thermal-Vibration-Acoustic [testing] — Additional Order)
 
 Airframe segments used for thermal, acoustic and vibration tests at TsAGI in preparation for second series orbiter production. Most likely scrapped.
 

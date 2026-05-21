@@ -14,8 +14,15 @@ parent: Buran Fleet
 grand_parent: Buran
 description: Buran test article OK-M.
 ---
-0.04 (4M, 4MT, OK-MT, 0.04MT, GRAU 11F35MT)
-OK-MT — Orbitalniy Korabl — Maket Tekhnologicheskiy (Orbital Ship — Technological Model) [7]
+# OK-MT
+
+**Airframe no.: 0.04** 
+
+**Energia designation: 4M**
+
+**Alternative designations: 4MT, OK-MT, 0.04MT, GRAU 11F35MT**
+
+OK-MT — *Orbitalniy Korabl — Maket Tekhnologicheskiy* (Orbital Ship — Technological Model) [7]
 
 OK-MT was delivered to Baikonur in August 1984 and used for handling and technological tests at the Orbiter Assembly and Test Facility (MIK OK) and for orbiter processing exercises at the Rocket Assembly and Test Facility (MIK RN), the Assembly and Fueling Facilit (MZK) and the landing complex at Yubileyniy airfield. The orbiter was supposed to be permanently operational and used for training and exercises for the maintenance personnel and crews, as well as the development of orbiter design and operational documentation. Before the delivery to Baikonur, 0.04 served as a static test article at TsAGI.
 

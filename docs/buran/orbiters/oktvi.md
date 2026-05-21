@@ -14,8 +14,15 @@ parent: Buran Fleet
 grand_parent: Buran
 description: Buran test article OK-M.
 ---
-0.06 (6M, OK-TVI)
-OK-TVI — Orbitalniy Korabl — Termo-Vakuumnyye Ispytaniya (Orbital Ship — Thermal-Vacuum Testing)
+# OK-TVI
+
+**Airframe no.: 0.06** 
+
+**Energia designation: 6M**
+
+**Alternative designations: OK-TVI**
+
+OK-TVI — *Orbitalniy Korabl — Termo-Vakuumnyye Ispytaniya* (Orbital Ship — Thermal-Vacuum Testing)
 
 Almost complete segments of the airframe were used for thermal vacuum testing at NIIKhimmash in Peresvet, Moscow Oblast. The tests were performed to verify the characteristics of the orbiter across the full range of thermal conditions and heat flows expected in flight.
 

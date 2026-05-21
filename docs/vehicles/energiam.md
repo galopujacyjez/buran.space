@@ -21,11 +21,7 @@ description: Energia-M launcher
 ## Contents
 
 - [Development history](#history)
-  - [Prologue](#prologue-rla-120-and-the-arrival-of-the-zenit)
-  - [RLA-125](#rla-125)
-  - [Groza](#groza-and-inelegant-design)
-  - [Neutron](#217gk-neutron)
-- [Technical description](#energia-m-technical-description)
+- [Technical description](#tech)
   - [Core stage](#blok-v-core-stage)
   - [RD-0122 engine](#rd-0122-engine)
   - [Payload fairing](#payload-fairing)

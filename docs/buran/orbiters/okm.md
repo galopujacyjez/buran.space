@@ -15,9 +15,16 @@ grand_parent: Buran
 description: Buran test article OK-M.
 ---
 
-**NPO Energia airframe no. 0.01; other designations: 1M, OK-ML1, OK-M**
+# OK-M
+
+**Airframe no.: 0.01** 
+
+**Energia designation: 2M**
+
+**Alternative designations: OK-ML1, OK-M**
 
 OK-M — *Orbitalnyy Korabl — Maket* (Orbital Ship — Model)
+
 OK-ML1 — *Orbitalnyy Korabl — Maket Letnyy 1* (Orbital Ship — Flight Model 1)
 
 Test article OK-M was built for vibration and static load testing. Its inertial, structural
