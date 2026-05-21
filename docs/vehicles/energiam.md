@@ -17,9 +17,20 @@ description: Energia-M launcher
 
 # Energia-M
 
-[Development history](#history)
 
-[Technical description](#tech)
+## Contents
+
+- [Development history](#history)
+  - [Prologue](#prologue-rla-120-and-the-arrival-of-the-zenit)
+  - [RLA-125](#rla-125)
+  - [Groza](#groza-and-inelegant-design)
+  - [Neutron](#217gk-neutron)
+- [Technical description](#energia-m-technical-description)
+  - [Core stage](#blok-v-core-stage)
+  - [RD-0122 engine](#rd-0122-engine)
+  - [Payload fairing](#payload-fairing)
+
+
 
 ## Development history {#history}
 
@@ -159,6 +170,7 @@ Another interesting concept was the idea of launching the Energia-M from a platf
 Being the USSR's prospective Proton replacement, Energia-M was included in some space station planning documents in the 80s and early 90s. This Mir-2 planning document from around 1990 shows the use of Energia-M (Neutron) to lift modules for the next generation space station.
 
 ## Energia-M technical description {#tech}
+*This section is based on the description in Gubanov, 1999.*
 
 The Energia-M is a two stage vehicle with an optional third stage depending on the mission requirements. The core stage, Blok V, is a derivative of the Energia core stage Blok Ts, shortened and adapted for attaching in-line payloads which are contained in a two-part fairing. The vehicle's boosters, Blok A, carried over from the Energia, are attached to the core stage at the bottom and the payload fairing at the top. A standard Blok Ya launch table adapter is used to assemble the vehicle, carry it to the pad on the "Grasshopper" transporter-erector (TUA) and erect it on the pad. During launch, Blok Ya remains on the pad, providing hydraulic, pneumatic and electrical connections between the pad infrastructure and the core stage right until lift-off.
 
