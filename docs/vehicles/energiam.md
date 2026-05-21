@@ -27,6 +27,12 @@ Studies on smaller Energia variants or derivatives began even before the Buran p
 
 The lineage can be traced back to Glushko's first proposals for the RLA family. By October 1974, the RLA line-up had evolved to form part of NPO Energia's Integrated Rocket and Space Program. The line-up consisted of four vehicles: the massive lunar-capable RLA-150, the RLA-130 and RLA-140 shuttle launchers, and the smallest, the RLA-120.
 
+<figure>
+  <img src="/docs/assets/images/podyom.webp" alt="Alt text" style="max-width: 100%; height: auto;">
+  <figcaption>The 1974 “Podyom” system. Source: RGANTD</figcaption>
+</figure>
+
+
 ### Prologue: RLA-120 and the arrival of the Zenit
 
 Glushko's original RLA concept developed back at Energomash was built on clustering 6 meter diameter common propulsion blocks running on tsyklin or kerosene, but despite his strong dislike of hydrogen as fuel, it had slowly made its way into the design — first on the upper stages, then by October 1974 it became the fuel for the MTKS shuttle's main engine, the RD-135.
@@ -53,23 +59,12 @@ Very little information is known about the proposed cryogenic upper stage, Blok 
 
 1978 saw the creation of a number of Energia derivatives, this time not limited to two boosters. The RLA-131 used the short core stage with an inline payload fairing and 4 Blok A boosters, the RLA-132 and RLA-133 used the same recipe but with 8 boosters, with Blok A boosters of the latter stretched to accommodate 50% more propellant. Two side-mount versions were also created: GTK-4 and GTK-6 with 4 and 6 Blok A boosters, respectively — these seem to have been designed around the full four tank core according to Hendrickx.
 
-After the Energia core stage design returned to the two tank configuration in 1978 and the design of the vehicle was frozen in 1979, work on derivatives and variants was suspended and all focus shifted to making Energia fly.
-
-
 <figure>
   <img src="https://buranarchive.space/uploads/9/m/h/9mhfyeon1r//2024/10/19/20241019212906-11e47048.png" alt="Alt text" style="max-width: 100%; height: auto;">
   <figcaption>RLA rockets</figcaption>
 </figure>
 
-
-<figure>
-  <img src="/docs/assets/images/podyom.webp" alt="Alt text" style="max-width: 100%; height: auto;">
-  <figcaption>podyom</figcaption>
-</figure>
-
-
-
-
+After the Energia core stage design returned to the two tank configuration in 1978 and the design of the vehicle was frozen in 1979, work on derivatives and variants was suspended and all focus shifted to making Energia fly.
 
 ### Groza and inelegant design
 
@@ -79,6 +74,12 @@ It's worth noting that "Groza" generally refers to a two-booster Energia derivat
 
 In December 1985 the preliminary design for Groza was released. The vehicle was just the cargo configuration of Energia without two of the four boosters; the core stage, pad infrastructure and the boosters themselves were all carried over from Energia. A new payload container, developed from Energia's standard GTK was the only major new piece of hardware. The core stage carried 703 tonnes of propellant and Groza could lift 60–63 tonnes to LEO, depending on the source.
 
+<figure>
+  <img src="https://buranarchive.space/uploads/9/m/h/9mhfyeon1r//2024/10/19/20241019212905-d26c6925.jpg" style="max-width: 100%; height: auto;">
+  <figcaption>The “inelegant” Groza configuration of 1985.</figcaption>
+</figure>
+
+
 Retaining the standard Blok A boosters presented some problems when the rocket was on the pad, however, as wind speeds that were acceptable for a standard Energia stack generated critical loads when the vehicle could only be supported by two of the four boosters. To solve this, an extra set of booster supports was added to the Blok Ya launch table adapter and the wind speed limit for launch was lowered. This minor change let Groza retain complete hardware commonality with standard Energia and reduce the workload on the factories preoccupied with getting Energia production going at full steam, although the lopsided design was criticised as "inelegant".
 
 ### 217GK "Neutron"
@@ -87,11 +88,34 @@ In July 1987 an expert commission on the RLA-125 and 11K37 projects was formed a
 
 At least two reduced-diameter options were considered, 4.1 meters (reminiscent of the 1975 RLA-120 core stage) and 5.5 meters. The propellant load would range from 200 to 450 tonnes depending on the diameter. Despite the smaller core stage and fewer engines, the proposed variants would allow a payload capacity of 27 to 50 tonnes to LEO. The preferred option was the 5.5 meter core with a single RD-0120, which would yield a 35 tonne payload capacity to LEO and 6.3 tonnes to GEO, and could be expanded into a new series of 5.5 meter launchers.
 
+<div style="display: flex; gap: 1em;">
+  <figure style="flex: 1;">
+    <img src="https://buranarchive.space/uploads/9/m/h/9mhfyeon1r//2025/01/27/20250127013612-f96c5145.jpg" alt="Alt text" style="width: 100%;">
+    <figcaption>Likely photo of the wind tunnel model of the 4.1 meter core stage configuration of Neutron.</figcaption>
+  </figure>
+  <figure style="flex: 1;">
+    <img src="https://buranarchive.space/uploads/9/m/h/9mhfyeon1r//2024/10/19/20241019212906-ce4821f9.jpg" alt="Alt text" style="width: 100%;">
+    <figcaption>The final Neutron configuration with the shortened 7.7 meter core stage.</figcaption>
+  </figure>
+</div>
+
 This would, however, require retooling the Progress plant in Kuybyshev, so by 1989 a version of Groza with a shortened Energia core stage at 7.7 meter diameter with one centrally mounted RD-0120 was chosen instead. The payload fairing was a shortened version of the GTK payload container for Energia and retained its 6.7 meter diameter. In July 1990 the concept was approved by the Council of General Designers at NPO Energia and given the name Neutron.
 
 ### Moving towards launch?
 
 Shortly after the design was approved in 1990, Neutron was renamed to Energia-M at the suggestion of NPO Energia Chief Designer Yuri Semenov, citing high hardware commonality with the Energia vehicle. That same year, a team was formed to create full scale model of the Energia-M and later in 1990 the mockup was built and tested in Baikonur at the Universal Test Stand and Launch Complex (UKSS) — the site of Energia full stack static fires and the launch site for Energia's first flight carrying Polyus — and one of the two pads at Site 110, the former N-1 launch complex now adapted to Energia launches.
+
+
+<div style="display: flex; gap: 1em;">
+  <figure style="flex: 1;">
+    <img src="https://buranarchive.space/uploads/9/m/h/9mhfyeon1r//2024/06/26/20240626190741-031ca90c.jpg" alt="Alt text" style="width: 100%;">
+    <figcaption>The mockup in the MZK facility. Image: Jaap Terweij</figcaption>
+  </figure>
+  <figure style="flex: 1;">
+    <img src="https://buranarchive.space/uploads/9/m/h/9mhfyeon1r//2023/04/18/20230418132918-5db7e7e2.jpg" alt="Alt text" style="width: 100%;">
+    <figcaption>The mockup during tests at the UKSS. Image: Gubanov 1995 via buran.ru</figcaption>
+  </figure>
+</div>
 
 Only later, in April 1991 a government resolution directed NPO Energia, NPO Yuzhnoye and KB Salyut to submit proposals for new 25–40 tonne payload launchers, essentially a repeat of the 1984 tender but amended to the new payload requirement. In July 1991 Energia-M was selected as the winner and approved for development; over the next two years the design documentation was created and the manufacturing base was prepared.
 
