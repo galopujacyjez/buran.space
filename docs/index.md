@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 1
+nav_order: 0
 has_children: true
 nav_exclude: false
 search_exclude: false
@@ -15,7 +15,6 @@ title: Home
 description: The home of Buran.
 ---
 
-
 # Home
 
-what a fantastic website!
+Welcome to **buran.space**, the information superhighway's premier English-language website about the Buran program.
