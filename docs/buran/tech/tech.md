@@ -6,7 +6,7 @@ nav_exclude: false
 search_exclude: false
 has_toc: true
 
-#permalink: /custom-url/
+permalink: /buran/tech/
 #last_modified_date: 2026-01-01
 
 title: Vehicle Description
