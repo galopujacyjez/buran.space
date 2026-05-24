@@ -2,11 +2,8 @@
 title: Crew Module
 #description: module crew desfr
 layout: default
-permalink: /buran/tech/crewmodule/
+permalink: /buran/tech/secondseries/
 has_children: false
 parent: Vehicle Description
-nav_order: 2
+nav_order: 8
 ---
-
-
-crew module afsdgjs
