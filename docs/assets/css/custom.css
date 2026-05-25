@@ -3,6 +3,7 @@
 :root {
     --body-font-family: "Inter", sans-serif;
     --heading-font-family: "Inter", sans-serif;
+    --link-color: #4a90d9;
 }
 
 body,
@@ -31,4 +32,12 @@ h4,
 h5,
 h6 {
     font-family: "Inter", sans-serif;
+}
+
+a {
+    color: #000000;
+}
+
+a:hover {
+    color: #01172f;
 }
