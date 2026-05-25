@@ -42,7 +42,7 @@ nav_sort: case_insensitive
 
 #logo: "/assets/images/logo.png"
 
-favicon_ico: "/assets/images/bfav2.ico"
+favicon_ico: "/assets/images/bfav.ico"
 
 plugins:
   - jekyll-remote-theme

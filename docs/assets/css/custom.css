@@ -3,9 +3,23 @@
 :root {
     --body-font-family: "Inter", sans-serif;
     --heading-font-family: "Inter", sans-serif;
-    --link-color: #4a90d9;
+
+    /* Colors — edit these */
+    --color-body-text: #000000;
+    --color-heading: ;
+    --color-link: #4a90d9;
+    --color-link-hover: #01172f;
+    --color-nav-link: ;
+    --color-nav-link-active: ;
+    --color-site-title: ;
+    --color-footer-text: ;
+    --color-code-text: ;
+    --color-body-background: ;
+    --color-sidebar-background: ;
+    --color-border: ;
 }
 
+/* Font */
 body,
 p,
 li,
@@ -34,10 +48,57 @@ h6 {
     font-family: "Inter", sans-serif;
 }
 
-a {
-    color: #000000;
+/* Body text */
+body,
+p,
+li,
+td,
+th {
+    color: var(--color-body-text);
 }
 
+/* Links */
+a {
+    color: var(--color-link);
+}
 a:hover {
-    color: #01172f;
+    color: var(--color-link-hover);
+}
+
+/* Navigation */
+.nav-list-item a,
+.nav-list-link {
+    color: var(--color-nav-link);
+}
+.nav-list-link.active {
+    color: var(--color-nav-link-active);
+}
+
+/* Site title */
+.site-title {
+    color: var(--color-site-title);
+}
+
+/* Footer */
+.site-footer {
+    color: var(--color-footer-text);
+}
+
+/* Code */
+code {
+    color: var(--color-code-text);
+}
+
+/* Backgrounds */
+body {
+    background-color: var(--color-body-background);
+}
+.side-bar {
+    background-color: var(--color-sidebar-background);
+}
+
+/* Borders */
+.side-bar,
+.main-content {
+    border-color: var(--color-border);
 }
