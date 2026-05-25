@@ -17,6 +17,22 @@
     --color-body-background: ;
     --color-sidebar-background: ;
     --color-border: ;
+    /* existing variables... */
+    --nav-active-link-color: #4a90d9;
+}
+
+/* Active/selected nav item */
+.nav-list-link.active {
+    color: var(--nav-active-link-color) !important;
+}
+
+/* Expand/collapse arrow */
+.nav-list-expander svg {
+    fill: #000000;
+}
+
+.nav-list-expander:hover svg {
+    fill: #000000;
 }
 
 /* Font */
