@@ -8,10 +8,13 @@ parent: Vehicle Description
 nav_order: 1
 ---
 
+*The content of this page is adapted from Semyonov (ed.) 1995, ch. 3.3, with additional information from Lozino-Lozinsky (ed.) 1997 and airframe blueprints published by Vadim Lukashevich on [buran.ru](http://www.buran.ru/htm/cherch3.htm), and follows some of the conventions from HAER TX-116. See [*Bibliography*](#biblio) for more details.*
+
 
 ## Coordinate system
-The Buran orbiter uses the centerline of the payload bay as the X-axis of the coordinate system (the "construction horizontal line"), with the zero at the tip of the orbiter's nose cap, and values increasing towards the aft of the orbiter. Vertically along the plane of symmetry, the positive Y-axis designates the up direction. The Z-axis increases laterally from the plane of symmetry.
-All dimensions and descriptions on this page use this coordinate system unless specified otherwise.
+The Buran orbiter uses a longitudinal line 292 mm below the axis of the sill longeron as the X-axis of the coordinate system (the "construction horizontal line"), with the origin at the tip of the orbiter's nose cap XXX, and values increasing towards the aft of the orbiter. Vertically along the plane of symmetry, the positive Y-axis designates the up direction. The Z-axis increases laterally from the plane of symmetry.
+
+On this page, the length of a component refers to its dimensions along the X-axis, the width—along the Z-axis and height—along the Y-axis, unless specified otherwise.
 
 center mass coordinates must be as follows:
 X = (19744…20361) mm from fuselage forebody nose along the longitudinal axis;
@@ -20,7 +23,6 @@ Z = ± 16 mm from surface symmetry
 
 
 ## Airframe
-*This section is adapted from MOK Buran, ch. 3.3 with additional information from AKS and airframe blueprints published by Vadim Lukashevich on buran.ru*
 
 The orbiter's airframe was constructed using conventional techniques with frames, bulkheads, ribs, spars, longerons and skin panels joined by rivets, threaded fasteners and welds. The structure was primarily made of aluminum alloys, with a number of components made of titanium and steel alloys and composite materials.
 
@@ -36,12 +38,16 @@ The airframe was divided into five major sections:
 the mid-fuselage and payload bay doors, the aft fuselage, the body flap, two wings and the vertical stabiliser.
 
 
-The fuselage is 30.85 m long, 5.50 m wide and 6.20 m tall and is divided into two major sections: F-1, which is the forward fuselage (NChF), and F-2, which consists of the mid-fuselage (SChF) and the aft fuselage (KhChF).
+The fuselage is 30.85 m long (measured from the tip of the nose cap to the aft surface of the aft bulkhead), 5.50 m wide and 6.20 m tall and is divided into two major sections: F-1, which is the forward fuselage (NChF), and F-2, which consists of the mid-fuselage (SChF) and the aft fuselage (KhChF).
 
 
-Airframe components are mainly built with D16 aluminum for formed sheet metal parts and 1163 aluminum for parts milled from plate; exceptions will be indicated.
+Airframe components are generally fabricated from D16 aluminum for formed sheet metal parts and 1163 aluminum for parts milled from plate; exceptions will be indicated.
 ## Forward fuselage
 The forward fuselage is 9,000 mm long, 5,500 mm wide and 6,000 mm tall and houses the [Cabin Module (MK)](/buran/tech/crewmodule/) and nose ODU block along with other systems. 
+
+
+The bulkhead just forward of the Cabin Module is part of the nose ODU block; during orbiter processing they are removed together, allowing better access to the forward fuselage.
+
 ## Mid-fuselage
 The mid-fuselage is 18,500 mm long, 5,500 mm wide and 6,000 mm tall and is the structural backbone of the orbiter. It joins to the forward fuselage and crew cabin at the forward end and the aft fuselage at the rear. Along the bottom of each side is the wing attachment interface with the main landing gear trunnion supports further aft, and centrally at the front is the nose landing gear compartment. Four-segment payload bay doors with radiators are attached to the mid-fuselage and enclose the payload bay. The mid-fuselage is also home to payload bay equipment such as the two robotic manipulator arms, the docking module, payload attachment systems, laboratory modules and one of the high gain antennas, as well as orbiter systems like the fuel cells and their fuel tanks, environmental and thermal control system tanks.
 
@@ -94,3 +100,17 @@ Along with the ODU, the aft fuselage houses a number of orbiter systems. At the 
 On the top side of the aft fuselage, two niches for the [Air-breathing Propulsion System (VRDU)](/buran/tech/vrdu/) turbofan engines are located. The use of VRDU engines on first series orbiters was abandoned in late-1987 or early-1988 and the niches on orbiters 1K and 2K were closed off with aluminum panels and covered in thermal blankets. The aft fuselage of [second series orbiters](/buran/tech/secondseries/) did not include the niches at all.
 
 A drag chute housing is mounted below the vertical stabiliser on the aft bulkhead.
+
+
+
+
+nose rcs block includes fwd fuse bulkhead, removed together for service
+Lower antenna left hand side 
+
+## Wings
+
+connected with shear bolts along both the top and bottom surface at 
+
+
+
+## Bibliography {#biblio}
