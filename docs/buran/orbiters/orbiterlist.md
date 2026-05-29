@@ -30,11 +30,11 @@ segments belonging to three serial numbers) at various museums around the world 
 
 | Serial no. | Designator | Description |
 |---|---|---|
-| 1.01 | [1K *Buran*](/buran/orbiters/1kburan/) | The first flight series orbiter of the program. Flew the only orbital flight of the program. Buran was the first of these orbiters and received the designation 1K (Vehicle 1). |
-| 1.02 | [2K](/buran/orbiters/2k/) | The second flight series orbiter, arrived in Baikonur on 23 March 1988. Flight readiness at the beginning of 1993 was estimated at 95–97%. Moved to the MZK building in 1995. |
-| 2.01 | [3K](/buran/orbiters/3k/) | The first second series orbiter and the third flight orbiter of the program. Construction stopped in 1993 at about 30–50% readiness. Moved from the TMZ to a pier in Khimki in 2004. Moved to Zhukovsky in 2011. In 2021 bought by Vadim Zadorozhny and moved to Medyn, then UMMC in 2024. |
-| 2.02 | [4K](/buran/orbiters/4k/) | The second second series orbiter. Construction of partially assembled fuselage stopped in 1989. Scrapped in Autumn 1995. |
-| 2.03 | [5K](/buran/orbiters/5k/) | The third second series orbiter. Construction stopped in 1989 with only segments of the airframe manufactured. Plans to use 5K for training in the neutral buoyancy pool at the Gagarin Cosmonaut Training Center never materialised. Right wing was used to assemble the Gorky Park model. |
+| 1.01 | [1K *Buran*](/buran/orbiters/1kburan/) | The first operational orbiter of the program. Flew the only orbital flight of the program. Destroyed in 2002. |
+| 1.02 | [2K](/buran/orbiters/2k/) | The second operational orbiter, arrived in Baikonur on 23 March 1988. Flight readiness at the beginning of 1993 was estimated at 95–97%. Moved to the MZK building in 1995. |
+| 2.01 | [3K](/buran/orbiters/3k/) | The first Additional Order orbiter and the third flight orbiter of the program. Construction stopped in 1993 at about 30–50% readiness. Moved from the TMZ to a pier in Khimki in 2004. Moved to Zhukovsky in 2011. In 2021 bought by Vadim Zadorozhny and moved to Medyn, then UMMC in 2024. |
+| 2.02 | [4K](/buran/orbiters/4k/) | The second Additional Order orbiter. Construction of the partially assembled fuselage stopped in 1989. Scrapped in Autumn 1995. |
+| 2.03 | [5K](/buran/orbiters/5k/) | The third Additional Order orbiter. Construction stopped in 1989 with only segments of the airframe manufactured. Plans to use 5K for training in the neutral buoyancy pool at the Gagarin Cosmonaut Training Center never materialised. Right wing was used to assemble the Gorky Park model. |
 
 ### Test articles
 
@@ -47,7 +47,7 @@ segments belonging to three serial numbers) at various museums around the world 
 | 0.05 | [OK-TVA](/buran/orbiters/oktva/) | Segments of the airframe were used for thermal, acoustic and vibration testing at TsAGI. The designator represented roughly one and a half orbiter's worth of airframe segments. All segments destroyed after 2004 with the exception of the left wing with its landing gear, which were used to build the Gorky Park/VDNKh model. |
 | 0.06 | [OK-TVI](/buran/orbiters/oktvi/) | The forward fuselage and cabin, mid and aft fuselage with payload bay doors, and vertical stabilizer used for thermal vacuum testing at NIIKhimmash between 1985–1990. Scrapped in 2006. |
 | 0.07 | [35St-7](/buran/orbiters/8m/) | Forward fuselage and cabin test stand for life support system tests at the EMZ, mentioned in lists of built articles but its whereabouts are unknown. **CHANGE **|
-| 0.11 | [OK-011](/buran/orbiters/ok011/) | Forward, mid and aft fuselage and tailfin used for static tests at NPO Molniya in preparation for second series orbiter production. In 1993 used to build the Gorky Park model. |
+| 0.11 | [OK-011](/buran/orbiters/ok011/) | Forward, mid and aft fuselage and tailfin used for static tests at NPO Molniya in preparation for second series (Additional Order) orbiter production. In 1993 used to build the Gorky Park model. |
 | 0.15 | [TVA-DZ / OK-015](/buran/orbiters/tvadz/) | Airframe segments used for thermal, acoustic and vibration tests at TsAGI in preparation for second series orbiter production. Most likely scrapped in the early 2000s. |
 | 0.16 | [OK-016](/buran/orbiters/ok016/) | Airframe segments used for thermal vacuum strength testing in preparation for second series orbiter production. Most likely scrapped in the late 90s/early 00s. |
 | N/A | [Gorky Park / VDNKh Model](/buran/orbiters/gorkypark/) | Model built from fuselage and tailfin from 0.11, left wing from article 0.05 and right wing from the cancelled flight article 2.03. Floated from the TMZ to Gorky Park on a barge in late 1993. In 2014 moved to the VDNKh and repainted. |
@@ -62,28 +62,27 @@ and 5K for the flight orbiters and appended a number to denote either a particul
 the orbiter or the configuration for that flight: 1K2 is Flight 2 of orbiter 1K or orbiter 1K
 as configured for Flight 2.
 
-Only 1K ever officially received a name — "Buran". 2K is sometimes referred to as Ptichka,
-which was a nickname for all orbiters (lit. "little bird") but was used to describe 2K in
-Western publications as early as November 7th 1988. There is speculation it could have
+Only 1K ever officially received a name — "*Buran*". Orbiter 2K is sometimes referred to as *Ptichka*,
+which was a nickname for all orbiters (lit. "little bird"), but was used to describe 2K in
+Western publications as early as November 7th 1988. There is speculation the orbiter could have
 received the name Burya, reusing the names of Myasishchev and Lavochkin's cruise missile
 projects of the 50s and continuing the theme of powerful natural phenomena. 3K could have
-potentially received the name Baykal as a reuse of Buran's "original" name.[^1]
+potentially received the name Baykal as a reuse of *Buran*'s "original" name.[^1]
 
 NPO Molniya, the organization tasked with manufacturing the airframes, used separate Ministry
 of Aviation Industry (MAP) airframe designators.
 
-The initial 1976 order called for a fleet of two flight orbiters; these constituted the "first
+The initial 1976 order called for a fleet of two operational orbiters; these constituted the "first
 series" with NPO Molniya airframe numbers 1.01 and 1.02 (1K and 2K, respectively). Full scale
 test articles received designators starting with "0", e.g. 0.01, 0.02, etc. In 1986 the
 "Additional Order" for three more flight orbiters was issued and these became the second series
 orbiters 3K, 4K and 5K with airframe numbers 2.01, 2.02 and 2.03, respectively. The second
-series of orbiters received a number of improvements, which required additional testing and a
-couple more test articles were built. These received the designators 0.11, 0.15 and 0.16 — out
+series of orbiters received a number of improvements, which required additional testing and the production of three more test article airframes. These received the designators 0.11, 0.15 and 0.16 — seemingly out
 of sequence, but echoing the function of similarly named test articles of the first series,
 e.g. 0.05 and 0.15 would both be used for thermal, vibration and acoustic testing and 0.01 and
 0.11 were both static test articles. [^2]
 
-In 1989, the Defence Council cut the order from the five total orbiters to just three. By that
+In 1989, the Defence Council cut the order from the five operational orbiters to just three. By that
 time all five had at least started construction but work on 2.02 and 2.03 stopped and the
 manufactured airframe segments were put into storage.
 
@@ -92,21 +91,21 @@ describe their functions. These names generally start with OK for Orbitalnyy Kor
 Ship) followed by the description of the test article's role, e.g. OK-TVA is the Orbital Ship
 (for) Thermal, Vacuum and Acoustic testing.
 
-The first two articles, 0.01 and 0.02 were initially given the names OK-ML1 and OK-ML2,
-respectively, meaning Orbital Ship–Flight Mock-up 1 and 2. In the Soviet program, a new launch
-vehicle would usually launch twice with dummy payloads before it entered operation. Initially
-those payloads were to be simple orbiter mockups, but to accurately simulate the loads on the
+The first two articles, airframes 0.01 and 0.02 were initially given the names OK-ML1 and OK-ML2,
+respectively, meaning "Orbital Ship – Flight Mock-up 1 and 2". In the Soviet program, a new launch
+vehicle would usually launch twice with dummy payloads before it entered operational service. Initially
+those payloads were to be crude orbiter mockups, but to accurately simulate the loads on the
 Energia and the separation from the core stage, it was decided that they would have to be
 similar in construction to flight orbiters and have complete propulsion and control systems.
-Eventually, it was decided that after test articles 0.01 and 0.02 completed their normal test
-programs, they would be launched on Energia on a suborbital trajectory to certify the vehicle.
+Eventually, it was decided that after test articles 0.01 and 0.02 completed their primary test campaigns,
+they would be launched on Energia on a suborbital trajectory to certify the vehicle.
 The aerodynamically unstable shape of the orbiter made the trajectory of an uncontrolled
 reentry too unpredictable, so lengths of detonating cord would be placed along the joints in
-the fuselage and triggered before reentry, creating debris that would approximately follow a
-ballistic trajectory. The proposal to use 0.01 and 0.02 in this manner was put forward by NPO
+the fuselage and triggered before reentry, creating debris that would follow a
+mostly ballistic trajectory. The proposal to use 0.01 and 0.02 in this manner was put forward by NPO
 Molniya General Designer Gleb Lozino-Lozinskiy in the late 1970s, but as the launch of such
 mockups would provide less useful data than during a "normal" maiden flight of the complete
-system and delays on the program mounted, the plans were abandoned around 1981–82 and the
+system, and delays on the program mounted, the plans were abandoned around 1981–82 and the
 orbiters were renamed to OK-M and OK-GLI, respectively.[^3] [^4]
 
 ## Bibliography

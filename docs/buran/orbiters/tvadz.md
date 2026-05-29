@@ -16,11 +16,14 @@ description: Buran test article OK-M.
 ---
 # TVA-DZ
 
-**Airframe no.: 0.15** 
-
-**Energia designation: *15M?***
-
-**Alternative designations: OK-015, TVA-DZ**
+<dl>
+  <dt>Airframe no.</dt>
+  <dd>0.15</dd>
+  <dt>Energia designator</dt>
+  <dd>n/a</dd>
+  <dt>Alt. designators</dt>
+  <dd>OK-015, TVA-DZ (*Termo-Vibro-Akusticheskiye [ispytaniya] — Dopolnitelnyy Zakaz* | Thermal-Vibration-Acoustic [testing] — Additional Order)</dd>
+</dl>
 
 TVA-DZ — *Termo-Vibro-Akusticheskiye [ispytaniya] — Dopolnitelnyy Zakaz* (Thermal-Vibration-Acoustic [testing] — Additional Order)
 

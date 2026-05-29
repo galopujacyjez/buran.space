@@ -8,7 +8,7 @@ parent: Vehicle Description
 nav_order: 1
 ---
 
-*The content of this page is adapted from Semyonov (ed.) 1995, ch. 3.3, with additional information from Lozino-Lozinsky (ed.) 1997 and airframe blueprints published by Vadim Lukashevich on [buran.ru](http://www.buran.ru/htm/cherch3.htm), and follows some of the conventions from HAER TX-116. See [*Bibliography*](#biblio) for more details.*
+*The content of this page is adapted from Semyonov (ed.) 1995, ch. 3.3, with additional information from Lozino-Lozinsky (ed.) 1997 and airframe blueprints published by Vadim Lukashevich on [buran.ru](http://www.buran.ru/htm/cherch3.htm), and follows some of the conventions from HAER TX-116. See [Bibliography](#biblio) for more details.*
 
 
 ## Coordinate system
@@ -34,9 +34,7 @@ The airframe was divided into five major sections:
 - vertical stabiliser with rudder-airbrake
 - body flap
 
-
 the mid-fuselage and payload bay doors, the aft fuselage, the body flap, two wings and the vertical stabiliser.
-
 
 The fuselage is 30.85 m long (measured from the tip of the nose cap to the aft surface of the aft bulkhead), 5.50 m wide and 6.20 m tall and is divided into two major sections: F-1, which is the forward fuselage (NChF), and F-2, which consists of the mid-fuselage (SChF) and the aft fuselage (KhChF).
 
