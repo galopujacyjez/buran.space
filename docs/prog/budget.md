@@ -10,7 +10,7 @@ permalink: /program/budget/
 #last_modified_date: 2026-01-01
 
 title: Program funding and flight cost
-parent: Buran Program
+parent: Development History
 #grand_parent: Buran
 description: funding and boujet
 ---
