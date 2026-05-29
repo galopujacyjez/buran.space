@@ -41,7 +41,7 @@ The fuselage is 30.85 m long (measured from the tip of the nose cap to the aft s
 
 Airframe components are generally fabricated from D16 aluminum for formed sheet metal parts and 1163 aluminum for parts milled from plate; exceptions will be indicated.
 ## Forward fuselage
-The forward fuselage is 9,000 mm long, 5,500 mm wide and 6,000 mm tall and houses the [Cabin Module (MK)](/buran/tech/crewmodule/) and nose ODU block along with other systems. 
+The forward fuselage is 9,000 mm long, 5,500 mm wide and 6,000 mm tall and houses the [Cabin Module (MK)](/buran/tech/cabinmodule/) and nose ODU block along with other systems. 
 
 
 The bulkhead just forward of the Cabin Module is part of the nose ODU block; during orbiter processing they are removed together, allowing better access to the forward fuselage.
