@@ -10,7 +10,7 @@ has_toc: true
 #last_modified_date: 2026-01-01
 
 title: Integrated Rocket and Space Programme Vol.3
-parent: Integrated Rocket and Space Programme
+parent: Documents
 #grand_parent: Buran
 description: Integrated Rocket and Space Programme Vol.3
 ---
