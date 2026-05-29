@@ -24,7 +24,7 @@ INTRO
 
 The total expenditure until 1990 is quoted at 15,600 million rubles. Of that amount, 11,500 million accounts for “experimental work” or R&D, which is defined as all work done in the design and development of the system, including hardware manufacturing and the cost of launching the two test flights. The remaining 4,100 million rubles is the capital expenditure.
 
-**Table 1.  Program expenditure as of January 1991 in 1990 rubles (millions). **
+### Table 1.  Program expenditure as of January 1991 in 1990 rubles (millions).
 
 | Year | 1976–1989 (actual) | 1990 (provisional) | 1991–1995 (planned) | Total until 1995 |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ The total expenditure until 1990 is quoted at 15,600 million rubles. Of that amo
 
 The memoirs of Energia Chief Designer Boris Gubanov helpfully mention program spending during individual years, allowing us to fill in the missing values between 1990 and 1993, when the program shut down.
 
-**Table 2.  Yearly R&D expenditure (actual) in 1990 rubles (millions). **
+### Table 2.  Yearly R&D expenditure (actual) in 1990 rubles (millions).
  
 | Year | 1976 | 1977 | 1978 | 1979 | 1980 | 1981 | 1982 | 1983 | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990 | 1991 | 1992 | 1993 |
 |--------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
@@ -42,7 +42,8 @@ The memoirs of Energia Chief Designer Boris Gubanov helpfully mention program sp
 
 According to Gubanov, the spending was 1,030 mln in 1990, 875 mln in 1991, 192 mln in 1992 and a measly 62 million rubles in 1993, for a total of 2,159 million rubles. These numbers refer to the R&D only, but even the planned capital expenditure until 1995 only amounted to an extra 500 million rubles, so with the program winding down the real value is certainly much lower — for simplicity I will not be including capital spending after 1989.
 
-**Table 3.  Combined total spending (actual) in 1990 rubles (millions). **
+### Table 3.  Combined total spending (actual) in 1990 rubles (millions).
+
 | Year | 1976–1989 (actual) | 1990 | 1991 | 1992 | 1993 | Total |
 |---|---|---|---|---|---|---|
 | R&D spending | 11,500 | 1,030 | 875 | 192 | 62 | 13,659 |
@@ -55,7 +56,7 @@ Values for 1982, 1987 and 1988 are missing from the book, but, comparing the 197
 
 
 <figure>
-  <img src="/docs/assets/images/buranfunding.jpg" style="max-width: 80%; height: auto;">
+  <img src="/docs/assets/images/buranfunding.jpg" alt="Alt text" style="max-width: 80%; height: auto;">
   <figcaption>Energia–Buran R&D Expenditure (million 1990 rubles)</figcaption>
 </figure>
 

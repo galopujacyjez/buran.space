@@ -22,9 +22,9 @@ description: Integrated Rocket and Space Programme Vol.3
 Ministry of General Machine Building of the USSR
 Scientific-Production Association "ENERGIA"
 
-**APPROVED** — Director and General Designer, Academician (GLUSHKO), 25 October 1974
+APPROVED — Director and General Designer, Academician (GLUSHKO), 25 October 1974
 
-**APPROVED** — General Designer of the Moscow Machine-Building Plant "OPYT" (TUPOLEV), 1974
+APPROVED — General Designer of the Moscow Machine-Building Plant "OPYT" (TUPOLEV), 1974
 
 ---
 
@@ -34,7 +34,7 @@ Scientific-Production Association "ENERGIA"
 
 The MTKS complex includes systems for launch preparation and execution, payload delivery and return.
 
-**2.1.1.** The reusable transport space system for delivery and return is a two-stage rocket with a reusable returnable orbital aircraft.
+### 2.1.1. The reusable transport space system for delivery and return is a two-stage rocket with a reusable returnable orbital aircraft.
 
 The first stage consists of two modular rocket blocks A of the launch vehicle RLA-120 with RD-150 engines, boosted in thrust at sea level to 1200 tf.
 
@@ -44,7 +44,7 @@ The orbital aircraft (RLA-135) is a hypersonic vehicle with a double-delta wing 
 
 Project TZ [1] also provides for studying the possibility of creating a cargo variant by replacing the reusable orbital aircraft with an expendable rocket block with the payload to be delivered, using the DU and SU elements of the second stage. Due to the absence of payload data, the study of this variant was not conducted at this stage.
 
-**2.1.2.** The launch preparation and execution system is a ground support complex for the MTKS and consists of the launch-landing complex and the command-and-measurement complex.
+### 2.1.2. The launch preparation and execution system is a ground support complex for the MTKS and consists of the launch-landing complex and the command-and-measurement complex.
 
 The launch-landing complex includes a launch pad with autonomous launch facilities, a technical position with an assembly and test building, a repair and restoration facility, as well as a landing strip with post-flight servicing platforms and stations.
 
@@ -54,7 +54,7 @@ The detailed composition of the constituent elements of the main MTKS complex sy
 
 ### 2.2. Main Requirements for the MTKS Complex Systems
 
-#### 2.2.1. Requirements for the Launch and Return System
+### 2.2.1. Requirements for the Launch and Return System
 
 From the payload perspective, the main requirements for the launch system are as follows:
 
@@ -69,7 +69,7 @@ Requirements for the elements of the launch system design:
 
 General requirements for the constituent assemblies and elements of the launch and return system are given in the corresponding sections of the technical proposal.
 
-#### 2.2.2. Requirements for the Ground Support Complex
+### 2.2.2. Requirements for the Ground Support Complex
 
 Requirements for the ground support complex, in the part determining the technical capabilities and costs of creating the ground complex, are as follows:
 
@@ -119,203 +119,104 @@ To satisfy the requirement for maximum unification of the modular rocket blocks 
 
 ## II. Technical Characteristics of the Reusable Transport Space System and Its Components
 
-### II.1. Orbital Aircraft
-
-#### II.1.1. Overall Dimensions, m
-
-| Parameter | Value |
+| **Parameter** | **Value** |
 |---|---|
-| Length | 41.4 |
-| Height including vertical tail (landing gear retracted) | 14.5 |
-| Wingspan | 26 |
-| Cargo bay diameter | 5 |
-| Cargo bay length | 20 |
-
-#### II.1.2. Mass Characteristics, t
-
-| Parameter | Value |
-|---|---|
-| At MTKS launch to OISZh at inclination *i* = 51.6° | 171 |
-| In OISZh with apogee 200 km and perigee 80 km (*i* = 51.6°) | 154 |
-| In OISZh at *H*кр = 200 km (*i* = 51.6°) | 152 |
-| Structure | 94.5 |
-| At nominal landing | 115 |
-| At emergency landing | 164 |
-| Propellant for emergency abort in first 40 s of flight | 6.78 |
-| Propellant for orbital maneuvering and reaction control (working reserve) | 23.76 |
-
-#### II.1.3. Number and Types of Engines
-
-| Parameter | Value |
-|---|---|
+| **II.1. Orbital Aircraft** | |
+| **II.1.1 Overall Dimensions** | |
+| Length, m | 41.4 |
+| Height including vertical tail (landing gear retracted), m | 14.5 |
+| Wingspan, m | 26 |
+| Cargo bay diameter, m | 5 |
+| Cargo bay length, m | 20 |
+| **II.1.2 Mass Characteristics** | |
+| At MTKS launch to OISZh at inclination *i* = 51.6°, t | 171 |
+| In OISZh with apogee 200 km and perigee 80 km (*i* = 51.6°), t | 154 |
+| In OISZh at *H*кр = 200 km (*i* = 51.6°), t | 152 |
+| Structure, t | 94.5 |
+| At nominal landing, t | 115 |
+| At emergency landing, t | 164 |
+| Propellant for emergency abort in first 40 s of flight, t | 6.78 |
+| Propellant for orbital maneuvering and reaction control (working reserve), t | 23.76 |
+| **II.1.3 Number and Types of Engines** | |
 | Second stage | 4 liquid oxygen-hydrogen LREs |
 | Orbital maneuvering | 2 LREs |
 | Reaction control | 40 LREs (pulse-mode), 10 UMRDs |
-
-#### II.1.4. Nominal Engine Thrust in Vacuum, tf
-
-| Parameter | Value |
-|---|---|
+| **II.1.4 Nominal Engine Thrust in Vacuum, tf** | |
 | Second stage | 250 |
 | Orbital maneuvering | 3.5 |
 | Reaction control | 0.4 |
-
-#### II.1.5. Engine Propellant Components
-
-| Parameter | Value |
-|---|---|
+| **II.1.5 Engine Propellant Components** | |
 | Second stage | O₂ + H₂ |
 | Orbital maneuvering and reaction control | AT + NDMG |
-
-**II.1.6.** Second-stage engine throttling range, %: −50...+9
-
-#### II.1.7. Crew Compartment Volume, m³
-
-| Parameter | Value |
-|---|---|
+| **II.1.6** Second-stage engine throttling range, % | −50...+9 |
+| **II.1.7 Crew Compartment Volume, m³** | |
 | Total | 120 |
 | Working | 80 |
-
-#### II.1.8. Number of Cosmonauts
-
-| Parameter | Value |
-|---|---|
+| **II.1.8 Number of Cosmonauts** | |
 | Crew | 3 |
 | Passengers (by reducing payload mass) | up to 6 |
-
-#### II.1.9. Duration of Stay in OISZh
-
-| Parameter | Value |
-|---|---|
+| **II.1.9 Duration of Stay in OISZh** | |
 | Nominal | up to 7 days |
 | With additionally expended mass reserves for onboard systems operation and life support | up to 30 days |
-
-**II.1.10.** Lateral maneuvering range using aerodynamic lift, km: ±2000
-
-#### II.1.11. Landing Speed, km/h
-
-| Parameter | Value |
-|---|---|
+| **II.1.10** Lateral maneuvering range using aerodynamic lift, km | ±2000 |
+| **II.1.11 Landing Speed, km/h** | |
 | At nominal landing | 280–320 |
 | At emergency landing | 360–370 |
-
-#### II.1.12. Service Life, flights
-
-| Parameter | Value |
-|---|---|
+| **II.1.12 Service Life, flights** | |
 | Airframe | not less than 100 |
 | Engines | 50, upgradeable to 100 |
-
----
-
-### II.2. External Fuel Tank
-
-#### II.2.1. Overall Dimensions, m
-
-| Parameter | Value |
-|---|---|
+| **II.2.1 External Fuel Tank — Overall Dimensions, m** | |
 | Length | 56.2 |
 | Oxygen tank diameter | 10.36 |
 | Hydrogen tank diameter | 8.37 |
-
-#### II.2.2. Mass Characteristics, t
-
-| Parameter | Value |
-|---|---|
+| **II.2.2 External Fuel Tank — Mass Characteristics, t** | |
 | At full fueling | 982 |
 | At launch | 977.4 |
 | At first-stage MTKS-1 separation | 632.5 |
 | At separation from OS | 67.9 |
 | Working propellant reserve | 909.5 |
 | Loaded propellant reserve | 917.5 |
-
-**II.2.3.** Number of uses: 1
-
----
-
-### II.3. First Stage of MTKS-1
-
-**II.3.1.** Number of modular blocks A: 2
-
-#### II.3.2. Overall Dimensions of Blocks A1 and A2 of the First Stage, m
-
-| Parameter | Value |
-|---|---|
+| **II.2.3** Number of uses | 1 |
+| **II.3.1** Number of modular blocks A | 2 |
+| **II.3.2 First Stage Blocks A1 and A2 — Overall Dimensions, m** | |
 | Length | 43.8 |
 | Diameter across tanks | 6.0 |
 | Diameter across vernier engine fairings | 9.2 |
-
-#### II.3.3. Mass Characteristics, t
-
-| Parameter | Value |
-|---|---|
+| **II.3.3 First Stage — Mass Characteristics, t** | |
 | At full fueling | 1647 |
 | At launch | 1638 |
 | At separation from second stage | 162 |
 | Working propellant reserve | 1476 |
 | Loaded propellant reserve | 1507.5 |
-
-#### II.3.4. Propellant Components
-
-| Parameter | Value |
-|---|---|
+| **II.3.4 Propellant Components** | |
 | Oxidizer | Liquid oxygen |
 | Fuel | RG-1 |
-
-#### II.3.5. Number and Types of Engines
-
-| Parameter | Value |
-|---|---|
+| **II.3.5 Number and Types of Engines** | |
 | Main engines | 2 × RD-150 |
 | Vernier engines | 4 × RD-1246 |
-
-#### II.3.6. Nominal Engine Thrust at Sea Level, tf
-
-| Parameter | Value |
-|---|---|
+| **II.3.6 Nominal Engine Thrust at Sea Level, tf** | |
 | Main engines | 2 × 1200 |
 | Vernier engines | 4 × 112.5 |
-
-**II.3.7.** Number of uses: 1
-
----
-
-### II.4. MTKS-1 Launch System
-
-#### II.4.1. Overall Dimensions, m
-
-| Parameter | Value |
-|---|---|
+| **II.3.7** Number of uses | 1 |
+| **II.4.1 MTKS-1 Launch System — Overall Dimensions, m** | |
 | Length | 67.5 |
 | Height (along OS vertical tail) | 24 |
 | Width (along OS wingspan) | 26 |
-
-#### II.4.2. Mass Characteristics, t
-
-| Parameter | Value |
-|---|---|
+| **II.4.2 MTKS-1 Launch System — Mass Characteristics, t** | |
 | At full fueling | 2800 |
 | At launch | 2786.5 |
 | At end of first-stage operation | 965.6 |
 | At start of second-stage operation | 803.6 |
 | At end of second-stage operation | 232.2 |
-
-**II.4.3.** Nominal engine thrust at launch, tf: 3626
-
-#### II.4.4. Thrust-to-Weight Ratio
-
-| Parameter | Value |
-|---|---|
+| **II.4.3** Nominal engine thrust at launch, tf | 3626 |
+| **II.4.4 Thrust-to-Weight Ratio** | |
 | At launch | 1.30 |
 | Second stage (after separation) | 1.24 |
-
-#### II.4.5. Payload Mass Delivered in OS Cargo Bay, t
-
-| Parameter | Value |
-|---|---|
+| **II.4.5 Payload Mass Delivered in OS Cargo Bay, t** | |
 | To reference circular orbit at *H*кр = 200 km, *i* = 51.6° | 40 (with additional reserve *V*к = 120 m/s) |
 | To polar orbit at *H*кр = 200 km | 29.5 |
 | To orbit at *H*кр = 400 km, *i* = 97° | 20 |
+
 
 ---
 *Machine translation.*
