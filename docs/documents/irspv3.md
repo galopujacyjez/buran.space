@@ -6,7 +6,7 @@ nav_exclude: false
 search_exclude: false
 has_toc: true
 
-#permalink: 
+permalink: /documents/irspv3/
 #last_modified_date: 2026-01-01
 
 title: Integrated Rocket and Space Programme Vol.3
@@ -148,7 +148,7 @@ To satisfy the requirement for maximum unification of the modular rocket blocks 
 | **II.1.5 Engine Propellant Components** | |
 | Second stage | O₂ + H₂ |
 | Orbital maneuvering and reaction control | AT + NDMG |
-| **II.1.6** Second-stage engine throttling range, % | −50...+9 |
+| **II.1.6 Second-stage engine throttling range, %** | −50...+9 |
 | **II.1.7 Crew Compartment Volume, m³** | |
 | Total | 120 |
 | Working | 80 |
@@ -158,7 +158,7 @@ To satisfy the requirement for maximum unification of the modular rocket blocks 
 | **II.1.9 Duration of Stay in OISZh** | |
 | Nominal | up to 7 days |
 | With additionally expended mass reserves for onboard systems operation and life support | up to 30 days |
-| **II.1.10** Lateral maneuvering range using aerodynamic lift, km | ±2000 |
+| **II.1.10 Lateral maneuvering range using aerodynamic lift, km** | ±2000 |
 | **II.1.11 Landing Speed, km/h** | |
 | At nominal landing | 280–320 |
 | At emergency landing | 360–370 |
@@ -176,8 +176,8 @@ To satisfy the requirement for maximum unification of the modular rocket blocks 
 | At separation from OS | 67.9 |
 | Working propellant reserve | 909.5 |
 | Loaded propellant reserve | 917.5 |
-| **II.2.3** Number of uses | 1 |
-| **II.3.1** Number of modular blocks A | 2 |
+| **II.2.3 Number of uses** | 1 |
+| **II.3.1 Number of modular blocks A** | 2 |
 | **II.3.2 First Stage Blocks A1 and A2 — Overall Dimensions, m** | |
 | Length | 43.8 |
 | Diameter across tanks | 6.0 |
@@ -197,7 +197,7 @@ To satisfy the requirement for maximum unification of the modular rocket blocks 
 | **II.3.6 Nominal Engine Thrust at Sea Level, tf** | |
 | Main engines | 2 × 1200 |
 | Vernier engines | 4 × 112.5 |
-| **II.3.7** Number of uses | 1 |
+| **II.3.7 Number of uses** | 1 |
 | **II.4.1 MTKS-1 Launch System — Overall Dimensions, m** | |
 | Length | 67.5 |
 | Height (along OS vertical tail) | 24 |
@@ -208,7 +208,7 @@ To satisfy the requirement for maximum unification of the modular rocket blocks 
 | At end of first-stage operation | 965.6 |
 | At start of second-stage operation | 803.6 |
 | At end of second-stage operation | 232.2 |
-| **II.4.3** Nominal engine thrust at launch, tf | 3626 |
+| **II.4.3 Nominal engine thrust at launch, tf** | 3626 |
 | **II.4.4 Thrust-to-Weight Ratio** | |
 | At launch | 1.30 |
 | Second stage (after separation) | 1.24 |

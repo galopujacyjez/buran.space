@@ -35,10 +35,14 @@ The total expenditure until 1990 is quoted at 15,600 million rubles. Of that amo
 The memoirs of Energia Chief Designer Boris Gubanov helpfully mention program spending during individual years, allowing us to fill in the missing values between 1990 and 1993, when the program shut down.
 
 ### Table 2.  Yearly R&D expenditure (actual) in 1990 rubles (millions).
- 
+
+<div style="overflow-x: hidden;">
+
 | Year | 1976 | 1977 | 1978 | 1979 | 1980 | 1981 | 1982 | 1983 | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990 | 1991 | 1992 | 1993 |
 |--------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
 | Spending (mln rub) | 54 | 91 | 209 | 315 | 482 | 675 | n/a | 1331 | 1370 | 1370 | 1340 | n/a | n/a | 1020 | 1030 | 875 | 192 | 62 |
+
+</div>
 
 According to Gubanov, the spending was 1,030 mln in 1990, 875 mln in 1991, 192 mln in 1992 and a measly 62 million rubles in 1993, for a total of 2,159 million rubles. These numbers refer to the R&D only, but even the planned capital expenditure until 1995 only amounted to an extra 500 million rubles, so with the program winding down the real value is certainly much lower — for simplicity I will not be including capital spending after 1989.
 

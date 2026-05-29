@@ -21,8 +21,8 @@ So far, the following documents have been partially released by RGANTD and Rosco
 
 VOLUME I
 GENERAL INFORMATION
+
 - [Volume I - General Information](/documents/irspv1/) - 19 October 1974
 - [Volume III - Reusable Space Transportation System](/documents/irspv3/) - 25 October 1974
 - [Addendum](/documents/irspadd/) - 7 December 1974. Description of the MTKS-O subscale demonstrator.
 - [Volume IB - General Information](/documents/irspv1b/) - 6 June 1975
--

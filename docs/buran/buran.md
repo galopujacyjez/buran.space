@@ -16,7 +16,7 @@ description: The Buran orbiter.
 ---
 # Buran orbiter
 
-The Buran orbiter is a class of reusable spaceplanes built as part of the Buran program in the 1980s and early 1990s. 
+The Buran orbiters are a class of reusable spaceplanes built as part of the Buran program in the 1980s and early 1990s. 
 
 The orbiter was conceived as a reponse to the Space Shuttle and was designed to launch on the Energia carrier rocket and carry up to 30 tonnes of cargo to Low Earth Orbit. Unlike the Shuttle, where the system's main engines were located on the orbiter, Energia's propulsion was independent of the Buran orbiter, which was merely its payload---an Energia rocket could also be configured to launch payloads other than Buran, and it did so during its maiden flight, carrying the Polyus spacecraft.
 
