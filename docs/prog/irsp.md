@@ -10,7 +10,7 @@ permalink: /program/irsp/
 #last_modified_date: 2026-01-01
 
 title: Integrated Rocket and Space Programme
-parent: Buran Program
+parent: Development History
 #grand_parent: Buran
 description: Integrated Rocket and Space Programme
 ---
