@@ -56,7 +56,7 @@ Values for 1982, 1987 and 1988 are missing from the book, but, comparing the 197
 
 
 <figure>
-  <img src="https://buranarchive.space/picture?/6119" alt="Energia–Buran R&D Expenditure (million 1990 rubles)" style="max-width: 80%; height: auto;">
+  <img src="https://buranarchive.space/_datas/9/m/h/9mhfyeon1r/i/uploads/9/m/h/9mhfyeon1r//2026/05/30/20260530090844-8e33fb13-xl.jpg" alt="Energia–Buran R&D Expenditure (million 1990 rubles)" style="max-width: 80%; height: auto;">
   <figcaption>Energia–Buran R&D Expenditure (million 1990 rubles)</figcaption>
 </figure>
 

@@ -118,14 +118,14 @@ To satisfy the requirement for maximum unification of the modular rocket blocks 
 ---
 
 <figure>
-  <img src="https://buranarchive.space/picture?/2148" alt="MTKS orbiter (Orbital Ship)" style="max-width: 80%; height: auto;">
+  <img src="https://buranarchive.space/uploads/9/m/h/9mhfyeon1r//2023/11/17/20231117153216-e4734bd6.jpg" alt="MTKS orbiter (Orbital Ship)" style="max-width: 80%; height: auto;">
   <figcaption>Fig. 1. MTKS orbiter (RLA-135)</figcaption>
 </figure>
 
 ---
 
 <figure>
-  <img src="https://buranarchive.space/picture?/2147" alt="MTKS-1 system" style="max-width: 80%; height: auto;">
+  <img src="https://buranarchive.space/uploads/9/m/h/9mhfyeon1r//2023/11/17/20231117153216-dc703cc2.jpg" alt="MTKS-1 system" style="max-width: 80%; height: auto;">
   <figcaption>Fig. 2. MTKS-1 system.</figcaption>
 </figure>
 
@@ -238,21 +238,21 @@ To satisfy the requirement for maximum unification of the modular rocket blocks 
 ---
 
 <figure>
-  <img src="https://buranarchive.space/picture?/2142" alt="MTKS-2 system" style="max-width: 80%; height: auto;">
+  <img src="https://buranarchive.space/uploads/9/m/h/9mhfyeon1r//2023/11/17/20231117153215-4ece7262.jpg" alt="MTKS-2 system" style="max-width: 80%; height: auto;">
   <figcaption>Fig. 84. MTKS-2 system.</figcaption>
 </figure>
 
 ---
 
 <figure>
-  <img src="https://buranarchive.space/picture?/2141" alt="MTKS-2 system" style="max-width: 80%; height: auto;">
+  <img src="https://buranarchive.space/uploads/9/m/h/9mhfyeon1r//2023/11/17/20231117153214-1334c7a1.jpg" alt="MTKS-2 system" style="max-width: 80%; height: auto;">
   <figcaption>Fig. 92. MTKS-2 system.</figcaption>
 </figure>
 
 ---
 
 <figure>
-  <img src="https://buranarchive.space/picture?/2140" alt="MTKS-2 system" style="max-width: 80%; height: auto;">
+  <img src="https://buranarchive.space/uploads/9/m/h/9mhfyeon1r//2023/11/17/20231117153214-41a9074e.jpg" alt="MTKS-2 system" style="max-width: 80%; height: auto;">
   <figcaption>Fig. 96. Flyback tandem first stage booster of the MTKS-2 system.</figcaption>
 </figure>
 
