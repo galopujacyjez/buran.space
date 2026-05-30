@@ -117,18 +117,36 @@ To satisfy the requirement for maximum unification of the modular rocket blocks 
 
 ---
 
-## II. Technical Characteristics of the Reusable Transport Space System and Its Components
+<figure>
+  <img src="https://buranarchive.space/picture?/2148" alt="MTKS orbiter (Orbital Ship)" style="max-width: 80%; height: auto;">
+  <figcaption>Fig. 1. MTKS orbiter (RLA-135)</figcaption>
+</figure>
+
+---
+
+<figure>
+  <img src="https://buranarchive.space/picture?/2147" alt="MTKS-1 system" style="max-width: 80%; height: auto;">
+  <figcaption>Fig. 2. MTKS-1 system.</figcaption>
+</figure>
+
+---
+
+[...]
+
+---
+
+## 11. Technical Characteristics of the Reusable Transport Space System and Its Components
 
 | **Parameter** | **Value** |
 |---|---|
-| **II.1. Orbital Aircraft** | |
-| **II.1.1 Overall Dimensions** | |
+| **11.1. Orbital Aircraft** | |
+| **11.1.1 Overall Dimensions** | |
 | Length, m | 41.4 |
 | Height including vertical tail (landing gear retracted), m | 14.5 |
 | Wingspan, m | 26 |
 | Cargo bay diameter, m | 5 |
 | Cargo bay length, m | 20 |
-| **II.1.2 Mass Characteristics** | |
+| **11.1.2 Mass Characteristics** | |
 | At MTKS launch to OISZh at inclination *i* = 51.6°, t | 171 |
 | In OISZh with apogee 200 km and perigee 80 km (*i* = 51.6°), t | 154 |
 | In OISZh at *H*кр = 200 km (*i* = 51.6°), t | 152 |
@@ -137,86 +155,106 @@ To satisfy the requirement for maximum unification of the modular rocket blocks 
 | At emergency landing, t | 164 |
 | Propellant for emergency abort in first 40 s of flight, t | 6.78 |
 | Propellant for orbital maneuvering and reaction control (working reserve), t | 23.76 |
-| **II.1.3 Number and Types of Engines** | |
+| **11.1.3 Number and Types of Engines** | |
 | Second stage | 4 liquid oxygen-hydrogen LREs |
 | Orbital maneuvering | 2 LREs |
 | Reaction control | 40 LREs (pulse-mode), 10 UMRDs |
-| **II.1.4 Nominal Engine Thrust in Vacuum, tf** | |
+| **11.1.4 Nominal Engine Thrust in Vacuum, tf** | |
 | Second stage | 250 |
 | Orbital maneuvering | 3.5 |
 | Reaction control | 0.4 |
-| **II.1.5 Engine Propellant Components** | |
+| **11.1.5 Engine Propellant Components** | |
 | Second stage | O₂ + H₂ |
 | Orbital maneuvering and reaction control | AT + NDMG |
-| **II.1.6 Second-stage engine throttling range, %** | −50...+9 |
-| **II.1.7 Crew Compartment Volume, m³** | |
+| **11.1.6 Second-stage engine throttling range, %** | −50...+9 |
+| **11.1.7 Crew Compartment Volume, m³** | |
 | Total | 120 |
 | Working | 80 |
-| **II.1.8 Number of Cosmonauts** | |
+| **11.1.8 Number of Cosmonauts** | |
 | Crew | 3 |
 | Passengers (by reducing payload mass) | up to 6 |
-| **II.1.9 Duration of Stay in OISZh** | |
+| **11.1.9 Duration of Stay in OISZh** | |
 | Nominal | up to 7 days |
 | With additionally expended mass reserves for onboard systems operation and life support | up to 30 days |
-| **II.1.10 Lateral maneuvering range using aerodynamic lift, km** | ±2000 |
-| **II.1.11 Landing Speed, km/h** | |
+| **11.1.10 Lateral maneuvering range using aerodynamic lift, km** | ±2000 |
+| **11.1.11 Landing Speed, km/h** | |
 | At nominal landing | 280–320 |
 | At emergency landing | 360–370 |
-| **II.1.12 Service Life, flights** | |
+| **11.1.12 Service Life, flights** | |
 | Airframe | not less than 100 |
 | Engines | 50, upgradeable to 100 |
-| **II.2.1 External Fuel Tank — Overall Dimensions, m** | |
+| **11.2.1 External Fuel Tank — Overall Dimensions, m** | |
 | Length | 56.2 |
 | Oxygen tank diameter | 10.36 |
 | Hydrogen tank diameter | 8.37 |
-| **II.2.2 External Fuel Tank — Mass Characteristics, t** | |
+| **11.2.2 External Fuel Tank — Mass Characteristics, t** | |
 | At full fueling | 982 |
 | At launch | 977.4 |
 | At first-stage MTKS-1 separation | 632.5 |
 | At separation from OS | 67.9 |
 | Working propellant reserve | 909.5 |
 | Loaded propellant reserve | 917.5 |
-| **II.2.3 Number of uses** | 1 |
-| **II.3.1 Number of modular blocks A** | 2 |
-| **II.3.2 First Stage Blocks A1 and A2 — Overall Dimensions, m** | |
+| **11.2.3 Number of uses** | 1 |
+| **11.3.1 Number of modular blocks A** | 2 |
+| **11.3.2 First Stage Blocks A1 and A2 — Overall Dimensions, m** | |
 | Length | 43.8 |
 | Diameter across tanks | 6.0 |
 | Diameter across vernier engine fairings | 9.2 |
-| **II.3.3 First Stage — Mass Characteristics, t** | |
+| **11.3.3 First Stage — Mass Characteristics, t** | |
 | At full fueling | 1647 |
 | At launch | 1638 |
 | At separation from second stage | 162 |
 | Working propellant reserve | 1476 |
 | Loaded propellant reserve | 1507.5 |
-| **II.3.4 Propellant Components** | |
+| **11.3.4 Propellant Components** | |
 | Oxidizer | Liquid oxygen |
 | Fuel | RG-1 |
-| **II.3.5 Number and Types of Engines** | |
+| **11.3.5 Number and Types of Engines** | |
 | Main engines | 2 × RD-150 |
 | Vernier engines | 4 × RD-1246 |
-| **II.3.6 Nominal Engine Thrust at Sea Level, tf** | |
+| **11.3.6 Nominal Engine Thrust at Sea Level, tf** | |
 | Main engines | 2 × 1200 |
 | Vernier engines | 4 × 112.5 |
-| **II.3.7 Number of uses** | 1 |
-| **II.4.1 MTKS-1 Launch System — Overall Dimensions, m** | |
+| **11.3.7 Number of uses** | 1 |
+| **11.4.1 MTKS-1 Launch System — Overall Dimensions, m** | |
 | Length | 67.5 |
 | Height (along OS vertical tail) | 24 |
 | Width (along OS wingspan) | 26 |
-| **II.4.2 MTKS-1 Launch System — Mass Characteristics, t** | |
+| **11.4.2 MTKS-1 Launch System — Mass Characteristics, t** | |
 | At full fueling | 2800 |
 | At launch | 2786.5 |
 | At end of first-stage operation | 965.6 |
 | At start of second-stage operation | 803.6 |
 | At end of second-stage operation | 232.2 |
-| **II.4.3 Nominal engine thrust at launch, tf** | 3626 |
-| **II.4.4 Thrust-to-Weight Ratio** | |
+| **11.4.3 Nominal engine thrust at launch, tf** | 3626 |
+| **11.4.4 Thrust-to-Weight Ratio** | |
 | At launch | 1.30 |
 | Second stage (after separation) | 1.24 |
-| **II.4.5 Payload Mass Delivered in OS Cargo Bay, t** | |
+| **11.4.5 Payload Mass Delivered in OS Cargo Bay, t** | |
 | To reference circular orbit at *H*кр = 200 km, *i* = 51.6° | 40 (with additional reserve *V*к = 120 m/s) |
 | To polar orbit at *H*кр = 200 km | 29.5 |
 | To orbit at *H*кр = 400 km, *i* = 97° | 20 |
 
+---
+
+<figure>
+  <img src="https://buranarchive.space/picture?/2142" alt="MTKS-2 system" style="max-width: 80%; height: auto;">
+  <figcaption>Fig. 84. MTKS-2 system.</figcaption>
+</figure>
+
+---
+
+<figure>
+  <img src="https://buranarchive.space/picture?/2141" alt="MTKS-2 system" style="max-width: 80%; height: auto;">
+  <figcaption>Fig. 92. MTKS-2 system.</figcaption>
+</figure>
+
+---
+
+<figure>
+  <img src="https://buranarchive.space/picture?/2140" alt="MTKS-2 system" style="max-width: 80%; height: auto;">
+  <figcaption>Fig. 96. Flyback tandem first stage booster of the MTKS-2 system.</figcaption>
+</figure>
 
 ---
 *Machine translation.*

@@ -36,13 +36,9 @@ The memoirs of Energia Chief Designer Boris Gubanov helpfully mention program sp
 
 ### Table 2.  Yearly R&D expenditure (actual) in 1990 rubles (millions).
 
-<div style="overflow-x: hidden;">
-
 | Year | 1976 | 1977 | 1978 | 1979 | 1980 | 1981 | 1982 | 1983 | 1984 | 1985 | 1986 | 1987 | 1988 | 1989 | 1990 | 1991 | 1992 | 1993 |
 |--------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
 | Spending (mln rub) | 54 | 91 | 209 | 315 | 482 | 675 | n/a | 1331 | 1370 | 1370 | 1340 | n/a | n/a | 1020 | 1030 | 875 | 192 | 62 |
-
-</div>
 
 According to Gubanov, the spending was 1,030 mln in 1990, 875 mln in 1991, 192 mln in 1992 and a measly 62 million rubles in 1993, for a total of 2,159 million rubles. These numbers refer to the R&D only, but even the planned capital expenditure until 1995 only amounted to an extra 500 million rubles, so with the program winding down the real value is certainly much lower — for simplicity I will not be including capital spending after 1989.
 
@@ -60,7 +56,7 @@ Values for 1982, 1987 and 1988 are missing from the book, but, comparing the 197
 
 
 <figure>
-  <img src="/docs/assets/images/buranfunding.jpg" alt="Alt text" style="max-width: 80%; height: auto;">
+  <img src="https://buranarchive.space/picture?/6119" alt="Energia–Buran R&D Expenditure (million 1990 rubles)" style="max-width: 80%; height: auto;">
   <figcaption>Energia–Buran R&D Expenditure (million 1990 rubles)</figcaption>
 </figure>
 
