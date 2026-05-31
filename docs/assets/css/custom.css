@@ -113,6 +113,12 @@ body {
     background-color: var(--color-sidebar-background);
 }
 
+td,
+th {
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+}
+
 /* Borders */
 .side-bar,
 .main-content {

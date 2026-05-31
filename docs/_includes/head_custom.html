@@ -1,1 +1,36 @@
 <link rel="stylesheet" href="/assets/css/custom.css" />
+
+<script>
+    const acronyms = {
+        "OISZh": "Reusable Launch Vehicle",
+        "Hкр": "Orbital Craft",
+        "OS": "Launch Vehicle",
+        "Vк": "Thrust Vector Control",
+        "DU": "Rocket Engine (Reaktivny Dvigatel)"
+        "Block Ts": "lit. Central Block; core stage"
+    };
+
+    document.addEventListener("DOMContentLoaded", function() {
+        const walker = document.createTreeWalker(
+            document.body, NodeFilter.SHOW_TEXT
+        );
+        const nodes = [];
+        while (walker.nextNode()) nodes.push(walker.currentNode);
+        nodes.forEach(node => {
+            let html = node.textContent;
+            let changed = false;
+            for (const [abbr, full] of Object.entries(acronyms)) {
+                const regex = new RegExp(`\\b${abbr}\\b`, 'g');
+                if (regex.test(html)) {
+                    html = html.replace(regex, `<abbr title="${full}">${abbr}</abbr>`);
+                    changed = true;
+                }
+            }
+            if (changed) {
+                const span = document.createElement('span');
+                span.innerHTML = html;
+                node.parentNode.replaceChild(span, node);
+            }
+        });
+    });
+</script>

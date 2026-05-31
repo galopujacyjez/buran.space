@@ -141,25 +141,25 @@ To satisfy the requirement for maximum unification of the modular rocket blocks 
 |---|---|
 | **11.1. Orbital Aircraft** | |
 | **11.1.1 Overall Dimensions** | |
-| Length, m | 41.4 |
+| Length, meters | 41.4 |
 | Height including vertical tail (landing gear retracted), m | 14.5 |
-| Wingspan, m | 26 |
-| Cargo bay diameter, m | 5 |
-| Cargo bay length, m | 20 |
+| Wingspan, meters | 26 |
+| Cargo bay diameter, meteres | 5 |
+| Cargo bay length, meters | 20 |
 | **11.1.2 Mass Characteristics** | |
-| At MTKS launch to OISZh at inclination *i* = 51.6°, t | 171 |
-| In OISZh with apogee 200 km and perigee 80 km (*i* = 51.6°), t | 154 |
-| In OISZh at *H*кр = 200 km (*i* = 51.6°), t | 152 |
-| Structure, t | 94.5 |
-| At nominal landing, t | 115 |
-| At emergency landing, t | 164 |
-| Propellant for emergency abort in first 40 s of flight, t | 6.78 |
-| Propellant for orbital maneuvering and reaction control (working reserve), t | 23.76 |
+| At MTKS launch to OISZh at inclination *i* = 51.6°, tonnes | 171 |
+| In OISZh with apogee 200 km and perigee 80 km (*i* = 51.6°), tonnes | 154 |
+| In OISZh at *H*кр = 200 km (*i* = 51.6°), tonnes | 152 |
+| Structure, tonnes | 94.5 |
+| At nominal landing, tonnes | 115 |
+| At emergency landing, tonnes | 164 |
+| Propellant for emergency abort in first 40 seconds of flight, tonnes | 6.78 |
+| Propellant for orbital maneuvering and reaction control (working reserve), tonnes | 23.76 |
 | **11.1.3 Number and Types of Engines** | |
 | Second stage | 4 liquid oxygen-hydrogen LREs |
 | Orbital maneuvering | 2 LREs |
 | Reaction control | 40 LREs (pulse-mode), 10 UMRDs |
-| **11.1.4 Nominal Engine Thrust in Vacuum, tf** | |
+| **11.1.4 Nominal Engine Thrust in Vacuum, tonnes-force** | |
 | Second stage | 250 |
 | Orbital maneuvering | 3.5 |
 | Reaction control | 0.4 |
@@ -183,11 +183,11 @@ To satisfy the requirement for maximum unification of the modular rocket blocks 
 | **11.1.12 Service Life, flights** | |
 | Airframe | not less than 100 |
 | Engines | 50, upgradeable to 100 |
-| **11.2.1 External Fuel Tank — Overall Dimensions, m** | |
+| **11.2.1 External Fuel Tank — Overall Dimensions, meters** | |
 | Length | 56.2 |
 | Oxygen tank diameter | 10.36 |
 | Hydrogen tank diameter | 8.37 |
-| **11.2.2 External Fuel Tank — Mass Characteristics, t** | |
+| **11.2.2 External Fuel Tank — Mass Characteristics, tonnes** | |
 | At full fueling | 982 |
 | At launch | 977.4 |
 | At first-stage MTKS-1 separation | 632.5 |
@@ -196,11 +196,11 @@ To satisfy the requirement for maximum unification of the modular rocket blocks 
 | Loaded propellant reserve | 917.5 |
 | **11.2.3 Number of uses** | 1 |
 | **11.3.1 Number of modular blocks A** | 2 |
-| **11.3.2 First Stage Blocks A1 and A2 — Overall Dimensions, m** | |
+| **11.3.2 First Stage Blocks A1 and A2 — Overall Dimensions, meters** | |
 | Length | 43.8 |
 | Diameter across tanks | 6.0 |
 | Diameter across vernier engine fairings | 9.2 |
-| **11.3.3 First Stage — Mass Characteristics, t** | |
+| **11.3.3 First Stage — Mass Characteristics, tonnes** | |
 | At full fueling | 1647 |
 | At launch | 1638 |
 | At separation from second stage | 162 |
@@ -212,25 +212,25 @@ To satisfy the requirement for maximum unification of the modular rocket blocks 
 | **11.3.5 Number and Types of Engines** | |
 | Main engines | 2 × RD-150 |
 | Vernier engines | 4 × RD-1246 |
-| **11.3.6 Nominal Engine Thrust at Sea Level, tf** | |
+| **11.3.6 Nominal Engine Thrust at Sea Level, tonnes-force** | |
 | Main engines | 2 × 1200 |
 | Vernier engines | 4 × 112.5 |
 | **11.3.7 Number of uses** | 1 |
-| **11.4.1 MTKS-1 Launch System — Overall Dimensions, m** | |
+| **11.4.1 MTKS-1 Launch System — Overall Dimensions, meters** | |
 | Length | 67.5 |
 | Height (along OS vertical tail) | 24 |
 | Width (along OS wingspan) | 26 |
-| **11.4.2 MTKS-1 Launch System — Mass Characteristics, t** | |
+| **11.4.2 MTKS-1 Launch System — Mass Characteristics, tonnes** | |
 | At full fueling | 2800 |
 | At launch | 2786.5 |
 | At end of first-stage operation | 965.6 |
 | At start of second-stage operation | 803.6 |
 | At end of second-stage operation | 232.2 |
-| **11.4.3 Nominal engine thrust at launch, tf** | 3626 |
+| **11.4.3 Nominal engine thrust at launch, tonnes-force** | 3626 |
 | **11.4.4 Thrust-to-Weight Ratio** | |
 | At launch | 1.30 |
 | Second stage (after separation) | 1.24 |
-| **11.4.5 Payload Mass Delivered in OS Cargo Bay, t** | |
+| **11.4.5 Payload Mass Delivered in OS Cargo Bay, tonnes** | |
 | To reference circular orbit at *H*кр = 200 km, *i* = 51.6° | 40 (with additional reserve *V*к = 120 m/s) |
 | To polar orbit at *H*кр = 200 km | 29.5 |
 | To orbit at *H*кр = 400 km, *i* = 97° | 20 |
