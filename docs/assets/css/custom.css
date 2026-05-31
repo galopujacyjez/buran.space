@@ -17,6 +17,7 @@
     --color-body-background: ;
     --color-sidebar-background: ;
     --color-border: ;
+    --color-caption: #666666;
     /* existing variables... */
     --nav-active-link-color: #4a90d9;
 }
@@ -117,6 +118,10 @@ td,
 th {
     padding-top: 0.2em;
     padding-bottom: 0.2em;
+}
+
+figcaption {
+    color: var(--color-caption);
 }
 
 /* Borders */
