@@ -142,7 +142,7 @@ To satisfy the requirement for maximum unification of the modular rocket blocks 
 | **11.1. Orbital Aircraft** | |
 | **11.1.1 Overall Dimensions** | |
 | Length, meters | 41.4 |
-| Height including vertical tail (landing gear retracted), m | 14.5 |
+| Height including vertical tail (landing gear retracted), meters | 14.5 |
 | Wingspan, meters | 26 |
 | Cargo bay diameter, meteres | 5 |
 | Cargo bay length, meters | 20 |

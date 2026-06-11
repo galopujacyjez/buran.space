@@ -11,7 +11,7 @@ permalink: /buran/orbiters/gorkypark/
 
 title: Gorky Park/VDNKh model
 parent: Buran Fleet
-grand_parent: Buran
+#grand_parent: Buran
 description: Buran test article OK-M.
 ---
 # Gorky Park and VDNKh model

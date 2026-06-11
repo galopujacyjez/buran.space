@@ -11,7 +11,7 @@ permalink: /buran/orbiters/oktvi/
 
 title: OK-TVI
 parent: Buran Fleet
-grand_parent: Buran
+#grand_parent: Buran
 description: Buran test article OK-M.
 ---
 # OK-TVI

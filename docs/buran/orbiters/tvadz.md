@@ -11,7 +11,7 @@ permalink: /buran/orbiters/tvadz/
 
 title: TVA-DZ
 parent: Buran Fleet
-grand_parent: Buran
+#grand_parent: Buran
 description: Buran test article OK-M.
 ---
 # TVA-DZ
