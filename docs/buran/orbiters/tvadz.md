@@ -14,7 +14,7 @@ parent: Buran Fleet
 #grand_parent: Buran
 description: Buran test article OK-M.
 ---
-# TVA-DZ
+# TVA-DZ --- *Additional Order* test article
 
 <dl>
   <dt>Airframe no.</dt>

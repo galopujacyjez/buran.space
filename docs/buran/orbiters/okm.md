@@ -15,7 +15,7 @@ parent: Buran Fleet
 description: Buran test article OK-M.
 ---
 
-# OK-M
+# OK-M --- static test article
 
 <dl>
   <dt>Airframe no.</dt>

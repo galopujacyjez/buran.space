@@ -15,7 +15,7 @@ parent: Buran Fleet
 description: Buran test article OK-M.
 ---
 
-# OK-KS
+# OK-KS --- avionics test article
 
 
 <dl>

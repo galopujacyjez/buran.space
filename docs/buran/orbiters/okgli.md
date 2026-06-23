@@ -14,7 +14,8 @@ parent: Buran Fleet
 #grand_parent: Buran
 description: Buran test article OK-GLI.
 ---
-# OK-GLI
+
+# OK-GLI --- Buran aerodynamic analogue
 
 <dl>
   <dt>Airframe no.</dt>

@@ -14,7 +14,7 @@ parent: Buran Fleet
 #grand_parent: Buran
 description: Buran test article OK-M.
 ---
-# Gorky Park and VDNKh model
+# Buran model in Gorky Park and at the VDNKh
 
 <dl>
   <dt>Airframe no.</dt>
