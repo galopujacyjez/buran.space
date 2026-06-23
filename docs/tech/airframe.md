@@ -154,15 +154,6 @@ The consoles are joined to the mid-fuselage by shear bolts through eyelets in th
 The spars are aligned with the mid-fuselage frames, with the strake's forwardmost Spar 1 at Frame 11 and its aftmost Spar 4 at Frame 14, shared with the main wing section. The main wing section's aftmost Spar 8 is aligned with Frame 22, or the rear payload bay bulkhead. 
 corrugated leading edge spar
 
-The leading edge (nose) section of the wing comprises the front face wall (лобовая стенка), the forward spar web (передняя стенка), the leading edge skin panel, 68 transverse diaphragms, and fittings. In the forward part of the front face wall there is a circular access hatch for reaching the attachment points of the first section of the wing nose, whose cover is secured by bolts through a rubber gasket. The surface of the front face wall has a thermal protection coating to prevent heating by radiation from the carbon-carbon sections, which reach temperatures up to 1600 °C during descent.
-The forward wing section — from the strake (наплыв) to the forward wall of the landing gear bay — consists of seven spars and upper and lower panels with open-section stringers bent from aluminium sheet. The first and seventh spars are beam-type, with flanges connected by a web; the other five have a truss construction, in which the flanges are bolted to posts and diagonal braces (раскосы) made from titanium alloy tube.
-
-The mid wing section — from the forward wall of the landing gear bay to the last wing spar — has 6 spars and 14 ribs united by upper and lower skin panels. The ribs form the transverse load-bearing structure and consist of built-up sections located between adjacent spars; between the last two spars, the upper and lower panels carry antenna hatches with radio-transparent inserts.
-
-The aft wing section is located aft of the last spar and includes the lower closeout skin, ribs, pylons, elevon attachment assemblies, and elevon fairings with deflection mechanism.
-The lower closeout is a standard stringer-type construction. The ribs are fabricated as trusses. The pylons, fitted with thermal insulators with ablative coating, close off the elevon tips and consist of skin and internal diaphragms joined by rivets.
-The elevon attachment assemblies consist of brackets, posts, struts (подкосы), and compensators for attachment to the skin; the brackets have lugs in which spherical bearings for the elevon rotation axes are mounted; the posts and struts are welded from titanium tubes.
-
 
  
 
