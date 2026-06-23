@@ -16,13 +16,14 @@ description: Buran test article OK-M.
 ---
 # OK-TVA
 
-**Airframe no.: 0.05** 
-
-**Energia designation: 5M**
-
-**Alternative designation: OK-TVA**
-
-OK-TVA — *Orbitalniy Korabl — Termo-Vibro-Akusticheskiye [ispytaniya]* (Orbital Ship — Thermal-Vibration-Acoustic [testing])
+<dl>
+  <dt>Airframe no.</dt>
+  <dd>0.05</dd>
+  <dt>Energia designator</dt>
+  <dd>5M</dd>
+  <dt>Alt. designators</dt>
+  <dd>OK-TVA (<i>Orbitalnyy Korabl — Teplo- i Vibroprochnostnye i Akusticheskiye [ispytaniya]</i> | Orbital Ship — Thermal, Vibration-strength, Acoustic [testing])</dd>
+</dl>
 
 Segments of the airframe were used for thermal, acoustic and vibration testing. The designator represented roughly one and a half orbiter’s worth of major components, with the airframe built in sections: the forward fuselage with the cabin and a section of the mid fuselage; the aft fuselage with a section of the mid fuselage; a wing with a section of the mid fuselage, etc.
 

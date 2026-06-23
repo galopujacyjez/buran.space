@@ -22,7 +22,7 @@ description: Buran test article OK-M.
   <dt>Energia designator</dt>
   <dd>n/a</dd>
   <dt>Alt. designators</dt>
-  <dd>OK-015, TVA-DZ (*Termo-Vibro-Akusticheskiye [ispytaniya] — Dopolnitelnyy Zakaz* | Thermal-Vibration-Acoustic [testing] — Additional Order)</dd>
+  <dd>OK-015, TVA-DZ (<i>Termo-Vibro-Akusticheskiye [ispytaniya] — Dopolnitelnyy Zakaz</i> | Thermal-Vibration-Acoustic [testing] — Additional Order)</dd>
 </dl>
 
 TVA-DZ — *Termo-Vibro-Akusticheskiye [ispytaniya] — Dopolnitelnyy Zakaz* (Thermal-Vibration-Acoustic [testing] — Additional Order)

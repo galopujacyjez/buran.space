@@ -58,7 +58,7 @@ The detailed composition of the constituent elements of the main MTKS complex sy
 
 From the payload perspective, the main requirements for the launch system are as follows:
 
-- the payload mass delivered by the launch system to the reference circular orbit of the ISZh (at inclination to the equator *i* = 51.6° and altitude *H* = 200 km) shall be 40 t;
+- the payload mass delivered by the launch system to the reference circular orbit (at inclination to the equator *i* = 51.6° and altitude *H* = 200 km) shall be 40 t;
 - the payload mass returned from the reference orbit in the cargo bay of the orbital aircraft shall be 20 t;
 - the reference launch trajectories are characterized by orbit inclinations of *i* = 91°–102° and *i* = 51°–63°.
 
@@ -147,9 +147,9 @@ To satisfy the requirement for maximum unification of the modular rocket blocks 
 | Cargo bay diameter, meteres | 5 |
 | Cargo bay length, meters | 20 |
 | **11.1.2 Mass Characteristics** | |
-| At MTKS launch to OISZh at inclination *i* = 51.6°, tonnes | 171 |
-| In OISZh with apogee 200 km and perigee 80 km (*i* = 51.6°), tonnes | 154 |
-| In OISZh at *H*кр = 200 km (*i* = 51.6°), tonnes | 152 |
+| At MTKS launch to Orbit at inclination *i* = 51.6°, tonnes | 171 |
+| In Orbit with apogee 200 km and perigee 80 km (*i* = 51.6°), tonnes | 154 |
+| In Orbit at *H*кр = 200 km (*i* = 51.6°), tonnes | 152 |
 | Structure, tonnes | 94.5 |
 | At nominal landing, tonnes | 115 |
 | At emergency landing, tonnes | 164 |
@@ -173,7 +173,7 @@ To satisfy the requirement for maximum unification of the modular rocket blocks 
 | **11.1.8 Number of Cosmonauts** | |
 | Crew | 3 |
 | Passengers (by reducing payload mass) | up to 6 |
-| **11.1.9 Duration of Stay in OISZh** | |
+| **11.1.9 Duration of Stay in Orbit** | |
 | Nominal | up to 7 days |
 | With additionally expended mass reserves for onboard systems operation and life support | up to 30 days |
 | **11.1.10 Lateral maneuvering range using aerodynamic lift, km** | ±2000 |

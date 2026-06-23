@@ -17,15 +17,16 @@ description: Buran test article OK-M.
 
 # OK-M
 
-**Airframe no.: 0.01** 
+<dl>
+  <dt>Airframe no.</dt>
+  <dd>0.01</dd>
+  <dt>Energia designator</dt>
+  <dd>1M</dd>
+  <dt>Alt. designators</dt>
+  <dd>OK-M (<i>Orbitalnyy Korabl — Maket</i> | Orbital Ship — Model), OK-ML1 (<i>Orbitalnyy Korabl — Maket Letnyy 1</i> | Orbital Ship — Flight Model 1)</dd>
+</dl>
 
-**Energia designation: 2M**
 
-**Alternative designations: OK-ML1, OK-M**
-
-OK-M — *Orbitalnyy Korabl — Maket* (Orbital Ship — Model)
-
-OK-ML1 — *Orbitalnyy Korabl — Maket Letnyy 1* (Orbital Ship — Flight Model 1)
 
 Test article OK-M was built for vibration and static load testing. Its inertial, structural
 and rigidity characteristics fully mirror those of a flight orbiter and the on-board equipment

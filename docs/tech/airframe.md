@@ -7,7 +7,7 @@ has_children: false
 parent: Vehicle Description
 nav_order: 1
 ---
-*The content of this page is adapted from Semyonov (ed.) 1995, ch. 3.3, with additional information from Lozino-Lozinsky (ed.) 1997 and airframe blueprints published by Vadim Lukashevich on [buran.ru](http://www.buran.ru/htm/cherch3.htm), and follows some of the conventions from HAER TX-116. See [*Bibliography*](#biblio) for more details.*
+*The content of this page is adapted from Semyonov (ed.) 1995, ch. 3.3, with additional information from Lozino-Lozinsky (ed.) 1997 and airframe blueprints published by Vadim Lukashevich on [buran.ru](http://www.buran.ru/htm/cherch3.htm), and follows some of the conventions from HAER TX-116. See [Bibliography](#biblio) for more details.*
 
 
 ## Coordinate system
