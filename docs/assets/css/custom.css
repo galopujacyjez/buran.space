@@ -11,12 +11,12 @@
     --color-link-hover: #01172f;
     --color-nav-link: #000000;
     --color-nav-link-active: #01172f;
-    --color-site-title: ;
-    --color-footer-text: ;
-    --color-code-text: ;
-    --color-body-background: ;
-    --color-sidebar-background: ;
-    --color-border: ;
+    --color-site-title: #000000;
+    --color-footer-text: #000000;
+    --color-code-text: #000000;
+    --color-body-background: #ffffff;
+    --color-sidebar-background: #ffffff;
+    --color-border: #000000;
     --color-caption: #666666;
     /* existing variables... */
     --nav-active-link-color: #4a90d9;
