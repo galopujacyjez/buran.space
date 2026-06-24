@@ -129,3 +129,11 @@ figcaption {
 .main-content {
     border-color: var(--color-border);
 }
+
+.nav-list-expander svg {
+    fill: #4a90d9;
+}
+
+.nav-list-expander:hover svg {
+    fill: #4a90d9;
+}
