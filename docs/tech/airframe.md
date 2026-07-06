@@ -155,7 +155,7 @@ The consoles are joined to the mid-fuselage by shear bolts through eyelets in th
 
 The spars are aligned with the mid-fuselage frames, with the strake's forwardmost Spar 1 at Frame 11 and its aftmost Spar 4 at Frame 14, shared with the main wing section. The main wing section's aftmost Spar 8 is aligned with Frame 22, or the rear payload bay bulkhead. 
 
-corrugated leading edge spar
+corrugated leading edge spars
 
 
  
