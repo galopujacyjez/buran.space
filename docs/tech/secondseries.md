@@ -4,6 +4,6 @@ title: Second Series
 layout: default
 permalink: /buran/tech/secondseries/
 has_children: false
-parent: Vehicle Description
+parent: Technical Description
 nav_order: 8
 ---

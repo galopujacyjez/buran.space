@@ -4,7 +4,7 @@ title: Buran Airframe
 layout: default
 permalink: /buran/tech/airframe/
 has_children: false
-parent: Vehicle Description
+parent: Technical Description
 nav_order: 1
 ---
 

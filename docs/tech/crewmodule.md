@@ -4,7 +4,7 @@ title: Cabin Module
 layout: default
 permalink: /buran/tech/cabinmodule/
 has_children: false
-parent: Vehicle Description
+parent: Technical Description
 nav_order: 2
 ---
 

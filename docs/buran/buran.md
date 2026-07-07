@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 2
+nav_order: 1
 has_children: true
 nav_exclude: false
 search_exclude: false

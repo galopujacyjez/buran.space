@@ -17,7 +17,7 @@ description: Zarya capsule
 
 # Zarya: the three lives of the propulsively landed Super-Soyuz
 
-*This article was previously published on fiftyonepointsix.com and in The Space Review.*
+*This article first appeared in The Space Review and in its initial form on fiftyonepointsix.com.*
 
 In the late 1980s, with the development of the first modules of Mir nearing its end and their launches on the horizon, NPO Energia started work on the station's successor; another generational step after Salyut-6 introduced multiple docking ports allowing continuous crewed operation and resupply missions, and Mir became the first truly modular station, drastically expanding the available volume and bringing specialized modules to the mix.
 
@@ -225,5 +225,5 @@ This spring, previously unreleased documentation on the 7K-SM and Zarya was shar
 [^17]: Rex D. Hall, David J. Shayler and Bert Vis, "Russia's cosmonauts: inside the Yuri Gagarin Training Center", Springer Praxis, 2006, p. 228.
 [^18]: Craig Covault, "Mir Cosmonauts Prepare For Reentry As NASA Holds Soyuz Talks in Moscow", *Aviation Week*, March 23, 1992, p. 24.
 [^19]: N.L. Johnson, D.M. Rodvold, "Europe and Asia in Space, 1991–1992", Kaman Sciences Corp., 1991, p. 76.
-[^20]: Semyonov, op. cit., pp. 521; Anatoly Zak, "Russia proposes lifeboat for a US space station", Russian Space Web, accessed 09.08.2025.
+[^20]: Semyonov, op. cit., p. 521; Anatoly Zak, "Russia proposes lifeboat for a US space station", Russian Space Web, accessed 09.08.2025.
 [^21]: S.N. Konyukhov (ed.), "Called by Time: From Confrontation to International Cooperation", ART-PRESS, 2004, ch. 2.
