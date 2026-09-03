@@ -17,10 +17,10 @@ aux_links:
     - "https://x.com/11K25_Energia"
   "Maks on Twitter":
     - "https://x.com/galopujacy_jez"
-#  "Tip jar":
-#    - "https://x.com/galopujacy_jez"
+  "Tip jar":
+    - "https://ko-fi.com/galopujacyjez"
 
-footer_content: "Crafted with love by Maks Skiendzielewski."
+footer_content: "Scriptus per manum Maks Skiendzielewski, anno Domini MMXXVI. Pro pena scriptoris da vinum potum."
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
