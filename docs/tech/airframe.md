@@ -8,7 +8,6 @@ parent: Technical Description
 nav_order: 1
 ---
 *The content of this page is adapted from Semyonov (ed.) 1995, ch. 3.3, with additional information from Lozino-Lozinsky (ed.) 1997 and airframe blueprints published by Vadim Lukashevich on [buran.ru](http://www.buran.ru/htm/cherch3.htm). See [Bibliography](#biblio) for more details.*
-
 ## Contents
 - [Coordinate system](#coords)
 - [Airframe](#airframe)
@@ -16,12 +15,11 @@ nav_order: 1
    - [Forward fuselage](#fwdfuse)
    - [Mid-fuselage](#midfuse)
    - [Aft fuselage](#aftfuse)
-    - [Body flap](#bflap)
-  - [Vertical stabilizer](#tailfin)
+     - [Body flap](#bflap)
+     - [Vertical stabiliser](#tailfin)
 - [Wings](#wings)
-  -[Elevons](#elevons)
+  - [Elevons](#elevons)
 - [Bibliography](#biblio)
-
 ## Coordinate system {#coords}
 The Buran orbiter uses a longitudinal line 292 mm below the axis of the sill longeron (or 2600 mm below the top of the payload bay doors) as the X-axis of the coordinate system (the "construction horizontal line"); a horizontal plane coincident with the X-axis will be referred to here as the "reference plane". Measurements along the X-axis typically treat the tip of the orbiter's nose cap as the origin, with values increasing towards the aft of the orbiter. Vertically along the plane of symmetry, the positive Y-axis designates the up direction. The Z-axis increases laterally from the plane of symmetry.
 
@@ -144,7 +142,7 @@ Mass report of built aft fuselage segments:
 | [2.02](/buran/orbiters/4k/)| n/a |
 
 
-#### Vertical stabilizer {#tailfin}
+#### Vertical stabiliser {#tailfin}
 
 ## Wings {#wings}
 
