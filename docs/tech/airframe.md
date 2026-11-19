@@ -9,22 +9,11 @@ nav_order: 1
 ---
 *The content of this page is adapted from Semyonov (ed.) 1995, ch. 3.3, with additional information from Lozino-Lozinsky (ed.) 1997 and airframe blueprints published by Vadim Lukashevich on [buran.ru](http://www.buran.ru/htm/cherch3.htm). See [Bibliography](#biblio) for more details.*
 
+
+#### Table of contents
 - TOC
 {:toc}
 
-
-## Contents
-- [Coordinate system](#coords)
-- [Airframe](#airframe)
-- [Fuselage](#fuselage)
-   - [Forward fuselage](#fwdfuse)
-   - [Mid-fuselage](#midfuse)
-   - [Aft fuselage](#aftfuse)
-     - [Body flap](#bflap)
-     - [Vertical stabiliser](#tailfin)
-- [Wings](#wings)
-  - [Elevons](#elevons)
-- [Bibliography](#biblio)
 
 
 ## Coordinate system {#coords}
@@ -126,7 +115,7 @@ Two niches for the [Air-Breathing Propulsion System (VRDU)](/buran/tech/vrdu/) t
 
 A drag chute housing is mounted below the vertical stabiliser on the aft bulkhead.
 
-
+#### Body flap
 
 
 nose rcs block includes fwd fuse bulkhead, removed together for service
@@ -149,7 +138,9 @@ Mass report of built aft fuselage segments:
 | [2.02](/buran/orbiters/4k/)| n/a |
 
 
-#### Vertical stabiliser {#tailfin}
+### Vertical stabiliser {#tailfin}
+
+
 
 ## Wings {#wings}
 
